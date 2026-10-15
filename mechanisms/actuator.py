@@ -2,12 +2,10 @@ from mechanisms.base import BaseMechanism
 
 class ActuatorMechanism(BaseMechanism):
     name = "actuator"
-    priority = 36
+    priority = 34
 
     def execute(self, context):
         decision = context.get("final_decision", 0.5)
-        
-        # Chỉ huy chuyên biệt theo từng vai trò cơ quan ngoại vi
         directed_commands = {
             "retina": {
                 "action": "adjust_focus",
@@ -24,6 +22,4 @@ class ActuatorMechanism(BaseMechanism):
                 "bias_shift": round(decision - 0.5, 4)
             }
         }
-
         context["directed_commands"] = directed_commands
-        print(f"🦾 [ACTIVE ACTUATOR] Đã phân tách lệnh chỉ huy chuyên biệt cho retina, motor và monad.")
