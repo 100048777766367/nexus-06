@@ -1,4 +1,4 @@
-name: Nexus-06 Sovereign Lifecycle
+name: Nexus-06 Causal Sandbox Lifecycle
 
 on:
   push:
@@ -14,7 +14,7 @@ jobs:
   run-nexus06:
     runs-on: ubuntu-latest
     steps:
-      # 1. KÉO CODE KHÔNG LỖI DETACHED HEAD
+      # 1. KÉO CODE BẰNG LINUX SHELL GỐC
       - name: Kéo mã nguồn Nexus-06
         run: |
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
@@ -25,52 +25,36 @@ jobs:
         with:
           python-version: '3.12'
 
-      # 3. CHẠY ENGINE
-      - name: Vận hành Động Cơ Nexus-06
+      # 3. VẬN HÀNH VI NHÂN F6
+      - name: Vận hành Vi Nhân Nexus-06
         env:
           REPO_OWNER: ${{ github.repository_owner }}
-        run: |
-          if [ -f "engine.py" ]; then
-            python engine.py
-          else
-            echo "⚠️ Không tìm thấy engine.py"
-          fi
+        run: python engine.py
 
-      # 4. LƯU VẾT TÍCH BỌC THÉP (KIỂM TRA THƯ MỤC TRƯỚC KHI ADD)
+      # 4. LƯU VẾT TÍCH BỌC THÉP VÀO GIT
       - name: Lưu vết tích tiến hóa Git
         run: |
           git config --global user.name "Nexus-06-Bot"
           git config --global user.email "bot@nexus06.node"
           
-          # Cấp token chống lỗi 128
+          # Cấp token an toàn cho chính repo này (chống lỗi 128)
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           
-          # Tự nhận diện nhánh đích chính xác
-          TARGET_BRANCH="main"
-          if git show-ref --verify --quiet refs/remotes/origin/master; then
-            TARGET_BRANCH="master"
-          fi
-          echo "🎯 Nhánh đích: $TARGET_BRANCH"
+          TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
 
           git fetch origin "$TARGET_BRANCH"
           git reset origin/"$TARGET_BRANCH"
           
-          # KIỂM TRA THƯ MỤC TỒN TẠI MỚI ADD (CHỐNG LỖI PATHSPEC CHÍ TỬ)
+          # Stage an toàn: Thư mục nào tồn tại mới add (chống lỗi pathspec)
           for d in cells receptors adapters mechanisms synapses; do
-            if [ -d "$d" ]; then
-              echo "📁 Ghi nhận thư mục: $d"
-              git add -A "$d"
-            fi
+            [ -d "$d" ] && git add -A "$d"
           done
-          
-          # Ghi nhận các gói tin nếu có
           git add synapse_forward.json synapse_backward.json 2>/dev/null || true
-          git add synapses/*.json 2>/dev/null || true
           
-          # Commit có cờ [skip ci]
           if ! git diff --staged --quiet; then
             git commit -m "🔮 [Nexus-06 F6] Giả lập tâm thức & Tiêu hóa entropy #(1+N) [skip ci]"
             git push origin "$TARGET_BRANCH"
           else
-            echo "🌿 Mạng lưới tĩnh lặng, không có biến thiên mới."
+            echo "Mạng lưới tĩnh lặng, không có biến thiên mới."
           fi
