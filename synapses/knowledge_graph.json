@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Großdeutschland: The",
-        "Lyckeby:",
         "village Karlskrona",
         "Mariko",
         "Mariko Sanjo",
@@ -99,7 +97,9 @@
         "Quilting",
         "quilting bee",
         "The",
-        "commonly used"
+        "commonly used",
+        "Angus",
+        "Angus McPhee"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -163,6 +163,7 @@
         "Lived --[during]--> the Early",
         "2018 --[women's]--> Africa Cup",
         "Quilting --[bee:]--> quilting bee",
-        "The --[term]--> commonly used"
+        "The --[term]--> commonly used",
+        "Angus --[mcphee:]--> Angus McPhee"
     ]
 }
