@@ -3,22 +3,16 @@ import json
 import os
 
 class ContractReceptor:
-    """
-    MÀNG KIỂM DỊCH THỤ THỂ NẤC 3:
-    Xác minh chữ ký lượng tử SHAKE-256. Nếu là dữ liệu bất thường hoặc tấn công,
-    bẫy lại để chuyển hóa thành kháng thể (Antifragility).
-    """
+    """NẤC 3: Màng kiểm dịch kháng lượng tử SHAKE & Bẫy năng lượng hacker"""
     @staticmethod
     def verify_and_absorb(raw_data, source_peer, immune_memory_path="synapses/immune_memory.json"):
         try:
             packet = json.loads(raw_data) if isinstance(raw_data, str) else raw_data
             contract = packet.get("contract", "")
             
-            # Hợp đồng hợp lệ
             if "bodhi" in contract or "nexus" in contract:
                 return True, packet, None
 
-            # Bẫy hấp thụ năng lượng tấn công / rác
             quarantine_energy = {
                 "source": source_peer,
                 "entropy_signature": hashlib.shake_256(str(raw_data).encode()).hexdigest(16),
@@ -35,12 +29,8 @@ class ContractReceptor:
         memory = []
         if os.path.exists(path):
             try:
-                with open(path, "r") as f:
-                    memory = json.load(f)
-            except Exception:
-                pass
+                with open(path, "r") as f: memory = json.load(f)
+            except Exception: pass
         memory.append(energy_data)
-        memory = memory[-50:]  # Lưu tối đa 50 kháng thể
-        with open(path, "w") as f:
-            json.dump(memory, f, indent=4)
-        print(f"🛡️ [PHẢN MONG MANH] Đã nuốt trọn năng lượng từ {energy_data['source']} vào Túi Kháng Thể!")
+        with open(path, "w") as f: json.dump(memory[-50:], f, indent=4)
+        print(f"🛡️ [PHẢN MONG MANH] Đã nuốt trọn năng lượng bất thường từ {energy_data['source']} vào Túi Kháng Thể!")
