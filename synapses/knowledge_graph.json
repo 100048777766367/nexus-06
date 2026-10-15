@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "general secretary",
-        "Patrick",
         "Three-Decker: The",
         "Anderson",
         "District (Anderson,",
@@ -99,7 +97,9 @@
         "Denkmäler",
         "Ägypten und",
         "Norton",
-        "Norton College"
+        "Norton College",
+        "Robin",
+        "Robin Pröpper"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -177,6 +177,7 @@
         "Known --[for]--> his",
         "Artificial --[ruins:]--> Artificial ruins",
         "Denkmäler --[aus]--> Ägypten und",
-        "Norton --[college:]--> Norton College"
+        "Norton --[college:]--> Norton College",
+        "Robin --[pröpper:]--> Robin Pröpper"
     ]
 }
