@@ -89,7 +89,9 @@
         "2017",
         "Island 500:",
         "Bazentin-le-petit",
-        "Cemetery Extension:"
+        "Cemetery Extension:",
+        "Kuntillet",
+        "inscriptions: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -139,6 +141,7 @@
         "Colonel --[acland]--> and Lord",
         "Voices --[sarafina!:]--> Voices Sarafina!",
         "2017 --[phillip]--> Island 500:",
-        "Bazentin-le-petit --[communal]--> Cemetery Extension:"
+        "Bazentin-le-petit --[communal]--> Cemetery Extension:",
+        "Kuntillet --[ajrud]--> inscriptions: The"
     ]
 }
