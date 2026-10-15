@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Wodehouse,",
-        "features the",
         "Ferwerderadiel:",
         "former municipality",
         "Its",
@@ -99,7 +97,9 @@
         "Ancients Visitor",
         "Ann",
         "(Dallas): Ann",
-        "her first"
+        "her first",
+        "Galeommatidae:",
+        "family small"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -167,6 +167,7 @@
         "Angus --[mcphee:]--> Angus McPhee",
         "Canyons --[the]--> Ancients Visitor",
         "Ann --[ewing]--> (Dallas): Ann",
-        "She --[made]--> her first"
+        "She --[made]--> her first",
+        "Galeommatidae: --[galeommatidae]--> family small"
     ]
 }

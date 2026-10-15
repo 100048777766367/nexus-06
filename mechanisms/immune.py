@@ -18,7 +18,8 @@ class ImmuneMechanism(BaseMechanism):
             except Exception: pass
 
         for peer in context.get("peers", []):
-            if peer not in trust_matrix: trust_matrix[peer] = 0.7
+            if peer not in trust_matrix:
+                trust_matrix[peer] = 0.7
 
         if not harvested:
             context["trust_matrix"] = trust_matrix
@@ -37,7 +38,7 @@ class ImmuneMechanism(BaseMechanism):
 
             if deviation > 0.35:
                 current_trust = max(0.05, round(current_trust * 0.75, 4))
-                print(f"🚨 [MIỄN DỊCH] {peer} lệch chuẩn ({dec})! Giảm tín nhiệm: {current_trust}")
+                print(f"🚨 [MIỄN DỊCH] {peer} lệch chuẩn ({dec})! Hạ tín nhiệm: {current_trust}")
             else:
                 current_trust = min(1.0, round(current_trust + 0.05, 4))
 
