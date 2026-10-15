@@ -87,7 +87,9 @@
         "Voices",
         "Voices Sarafina!",
         "2017",
-        "Island 500:"
+        "Island 500:",
+        "Bazentin-le-petit",
+        "Cemetery Extension:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -136,6 +138,7 @@
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Colonel --[acland]--> and Lord",
         "Voices --[sarafina!:]--> Voices Sarafina!",
-        "2017 --[phillip]--> Island 500:"
+        "2017 --[phillip]--> Island 500:",
+        "Bazentin-le-petit --[communal]--> Cemetery Extension:"
     ]
 }
