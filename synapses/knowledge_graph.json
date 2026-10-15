@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Ferwerderadiel:",
-        "former municipality",
-        "Its",
         "name West",
         "Leticia",
         "Leticia Ann",
@@ -99,7 +96,10 @@
         "(Dallas): Ann",
         "her first",
         "Galeommatidae:",
-        "family small"
+        "family small",
+        "Napalm:",
+        "incendiary mixture",
+        "portmanteau two"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -168,6 +168,8 @@
         "Canyons --[the]--> Ancients Visitor",
         "Ann --[ewing]--> (Dallas): Ann",
         "She --[made]--> her first",
-        "Galeommatidae: --[galeommatidae]--> family small"
+        "Galeommatidae: --[galeommatidae]--> family small",
+        "Napalm: --[napalm]--> incendiary mixture",
+        "The --[name]--> portmanteau two"
     ]
 }
