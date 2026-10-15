@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Mariko Sanjo",
-        "Sir",
-        "Comes Lunch:",
         "Wodehouse,",
         "features the",
         "Ferwerderadiel:",
@@ -99,7 +96,10 @@
         "Angus",
         "Angus McPhee",
         "Canyons",
-        "Ancients Visitor"
+        "Ancients Visitor",
+        "Ann",
+        "(Dallas): Ann",
+        "her first"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -165,6 +165,8 @@
         "Quilting --[bee:]--> quilting bee",
         "The --[term]--> commonly used",
         "Angus --[mcphee:]--> Angus McPhee",
-        "Canyons --[the]--> Ancients Visitor"
+        "Canyons --[the]--> Ancients Visitor",
+        "Ann --[ewing]--> (Dallas): Ann",
+        "She --[made]--> her first"
     ]
 }
