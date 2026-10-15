@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Žemaitkiemis",
-        "Žemaitkiemis meteorite",
         "Colonel",
         "and Lord",
         "Voices",
@@ -99,7 +97,9 @@
         "Herserange:",
         "commune the",
         "Part",
-        "urban area"
+        "urban area",
+        "Ólafur",
+        "Ólafur Indriði"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -196,6 +196,7 @@
         "Glen --[township,]--> Aitkin County,",
         "The --[population]--> was 432",
         "Herserange: --[herserange]--> commune the",
-        "Part --[the]--> urban area"
+        "Part --[the]--> urban area",
+        "Ólafur --[stefánsson:]--> Ólafur Indriði"
     ]
 }
