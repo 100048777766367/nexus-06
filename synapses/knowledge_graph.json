@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "American journalist",
-        "She",
-        "known former",
-        "Showalter:",
         "Baltzell Showalter",
         "Batalha",
         "The Monastery",
@@ -99,7 +95,11 @@
         "portmanteau two",
         "Drupadia",
         "Drupadia cinesia",
-        "William Chapman"
+        "William Chapman",
+        "Melvin",
+        "Melvin Poh",
+        "Known",
+        "his"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -172,6 +172,8 @@
         "Napalm: --[napalm]--> incendiary mixture",
         "The --[name]--> portmanteau two",
         "Drupadia --[cinesia:]--> Drupadia cinesia",
-        "Was --[described]--> William Chapman"
+        "Was --[described]--> William Chapman",
+        "Melvin --[poh:]--> Melvin Poh",
+        "Known --[for]--> his"
     ]
 }
