@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Three-Decker: The",
-        "Anderson",
-        "District (Anderson,",
-        "cotton being",
         "Rara",
         "rara was",
         "Operated",
@@ -99,7 +95,11 @@
         "Norton",
         "Norton College",
         "Robin",
-        "Robin Pröpper"
+        "Robin Pröpper",
+        "Neville",
+        "Major General",
+        "Was",
+        "fir"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -178,6 +178,8 @@
         "Artificial --[ruins:]--> Artificial ruins",
         "Denkmäler --[aus]--> Ägypten und",
         "Norton --[college:]--> Norton College",
-        "Robin --[pröpper:]--> Robin Pröpper"
+        "Robin --[pröpper:]--> Robin Pröpper",
+        "Neville --[howse:]--> Major General",
+        "Was --[the]--> fir"
     ]
 }
