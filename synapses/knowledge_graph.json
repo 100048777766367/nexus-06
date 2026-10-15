@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Thomas",
-        "Van:",
         "ruined Armenian",
         "Drama",
         "EP): Drama",
@@ -99,7 +97,9 @@
         "Anton",
         "Anton Kobyakov",
         "Works",
-        "Presidential Administration"
+        "Presidential Administration",
+        "Quebec",
+        "111: Route"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -185,6 +185,7 @@
         "Born --[ethiopia,]--> was adopted",
         "2020–21 --[uefa]--> Futsal Champions",
         "Anton --[kobyakov:]--> Anton Kobyakov",
-        "Works --[the]--> Presidential Administration"
+        "Works --[the]--> Presidential Administration",
+        "Quebec --[route]--> 111: Route"
     ]
 }
