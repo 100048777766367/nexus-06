@@ -85,7 +85,9 @@
         "Colonel",
         "and Lord",
         "Voices",
-        "Voices Sarafina!"
+        "Voices Sarafina!",
+        "2017",
+        "Island 500:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -133,6 +135,7 @@
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Colonel --[acland]--> and Lord",
-        "Voices --[sarafina!:]--> Voices Sarafina!"
+        "Voices --[sarafina!:]--> Voices Sarafina!",
+        "2017 --[phillip]--> Island 500:"
     ]
 }
