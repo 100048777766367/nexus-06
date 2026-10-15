@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "New",
-        "Maine: New",
         "was 577",
         "Willie",
         "William Eldon",
@@ -99,7 +97,9 @@
         "Andre",
         "Kenneth Andre",
         "Played",
-        "League Baseball"
+        "League Baseball",
+        "Bakchar:",
+        "rural locality"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -189,6 +189,7 @@
         "Quebec --[route]--> 111: Route",
         "Adriaan --[dortsman:]--> Adriaan Dortsman,",
         "Andre --[rodgers:]--> Kenneth Andre",
-        "Played --[major]--> League Baseball"
+        "Played --[major]--> League Baseball",
+        "Bakchar: --[bakchar]--> rural locality"
     ]
 }
