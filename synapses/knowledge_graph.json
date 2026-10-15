@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "One",
-        "first female",
-        "Middle Ages",
-        "Panzergrenadier",
         "Großdeutschland: The",
         "Lyckeby:",
         "village Karlskrona",
@@ -99,7 +95,11 @@
         "Lived",
         "the Early",
         "2018",
-        "Africa Cup"
+        "Africa Cup",
+        "Quilting",
+        "quilting bee",
+        "The",
+        "commonly used"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -161,6 +161,8 @@
         "Kota --[samarahan:]--> Kota Samarahan,",
         "Anchisaurus: --[anchisaurus]--> genus basal",
         "Lived --[during]--> the Early",
-        "2018 --[women's]--> Africa Cup"
+        "2018 --[women's]--> Africa Cup",
+        "Quilting --[bee:]--> quilting bee",
+        "The --[term]--> commonly used"
     ]
 }
