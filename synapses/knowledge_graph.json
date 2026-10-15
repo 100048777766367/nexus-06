@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "village Karlskrona",
-        "Mariko",
         "Mariko Sanjo",
         "Sir",
         "Comes Lunch:",
@@ -99,7 +97,9 @@
         "The",
         "commonly used",
         "Angus",
-        "Angus McPhee"
+        "Angus McPhee",
+        "Canyons",
+        "Ancients Visitor"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -164,6 +164,7 @@
         "2018 --[women's]--> Africa Cup",
         "Quilting --[bee:]--> quilting bee",
         "The --[term]--> commonly used",
-        "Angus --[mcphee:]--> Angus McPhee"
+        "Angus --[mcphee:]--> Angus McPhee",
+        "Canyons --[the]--> Ancients Visitor"
     ]
 }
