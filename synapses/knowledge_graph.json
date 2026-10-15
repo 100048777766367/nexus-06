@@ -81,7 +81,9 @@
         "Gram-negative",
         "the family",
         "Žemaitkiemis",
-        "Žemaitkiemis meteorite"
+        "Žemaitkiemis meteorite",
+        "Colonel",
+        "and Lord"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -127,6 +129,7 @@
         "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
         "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
-        "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite"
+        "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
+        "Colonel --[acland]--> and Lord"
     ]
 }
