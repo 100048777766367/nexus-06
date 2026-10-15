@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "ruined Armenian",
-        "Drama",
         "EP): Drama",
         "Entertainment November",
         "Ataíde",
@@ -99,7 +97,9 @@
         "Works",
         "Presidential Administration",
         "Quebec",
-        "111: Route"
+        "111: Route",
+        "Adriaan",
+        "Adriaan Dortsman,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -186,6 +186,7 @@
         "2020–21 --[uefa]--> Futsal Champions",
         "Anton --[kobyakov:]--> Anton Kobyakov",
         "Works --[the]--> Presidential Administration",
-        "Quebec --[route]--> 111: Route"
+        "Quebec --[route]--> 111: Route",
+        "Adriaan --[dortsman:]--> Adriaan Dortsman,"
     ]
 }
