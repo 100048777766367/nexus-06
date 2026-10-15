@@ -7,19 +7,14 @@ GRAPH_FILE = "synapses/knowledge_graph.json"
 
 class KnowledgeGraphMechanism(BaseMechanism):
     name = "knowledge_graph"
-    priority = 34
+    priority = 32
 
     def extract_triplets(self, text):
         triplets = []
-        sentences = re.split(r'[.\n]', text)
-        for s in sentences:
+        for s in re.split(r'[.\n]', text):
             words = [w.strip() for w in s.split() if len(w.strip()) > 2]
             if len(words) >= 3:
-                # Tạo bộ ba biểu tượng: (Chủ thể - Mối quan hệ - Khách thể)
-                subj = words[0].capitalize()
-                pred = words[1].lower()
-                obj = " ".join(words[2:4])
-                triplets.append({"subject": subj, "predicate": pred, "object": obj})
+                triplets.append({"subject": words[0].capitalize(), "predicate": words[1].lower(), "object": " ".join(words[2:4])})
         return triplets[:5]
 
     def execute(self, context):
@@ -45,5 +40,4 @@ class KnowledgeGraphMechanism(BaseMechanism):
         with open(GRAPH_FILE, "w", encoding="utf-8") as f:
             json.dump(graph, f, indent=4, ensure_ascii=False)
 
-        print(f"🧠 [NEURO-SYMBOLIC GRAPH] Đã cập nhật đồ thị tri thức: {len(graph['nodes'])} thực thể, {len(graph['edges'])} quan hệ.")
         context["knowledge_graph_summary"] = f"Entities:{len(graph['nodes'])}, Edges:{len(graph['edges'])}"
