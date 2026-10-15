@@ -14,44 +14,41 @@ Bất kỳ repo nào (Mắt, Tai, Não bạn bè...) muốn kết nối:
 2. Hút đạo hàm từ `https://raw.githubusercontent.com/100048777766367/seed/main/synapse_backward.json` để tự tiến hóa!
 
 ```
-100048777766367/nexus-05/
-├── receptors/                         # 🔌 [BỘ THỤ THỂ 3 NẤC PHÂN RÃ]
-│   ├── cascade_receptor.py            # Nấc 1: Dò tìm phả hệ thượng nguồn (Parent/Ancestor)
-│   ├── mesh_receptor.py               # Nấc 2: Anten bắt sóng Stigmergy bầy đàn
-│   └── contract_receptor.py           # Nấc 3: Màng kiểm dịch SHAKE & Bẫy hấp thụ năng lượng hacker!
-│
+100048777766367/nexus-06/
+├── receptors/
+│   ├── cascade_receptor.py
+│   ├── mesh_receptor.py
+│   └── contract_receptor.py           # Màng kiểm dịch SHAKE & Bẫy năng lượng hacker
 ├── cells/
-│   ├── linguistic_cell.py             # Cầu biến chữ -> Vector 4D
-│   ├── neuron.py                      # AtomNeuron 1+N Siêu XOR
-│   └── super_xor.py                   # Động cơ Mê Cung Gương Siêu XOR
-│
+│   ├── linguistic_cell.py
+│   ├── neuron.py
+│   └── super_xor.py
 ├── adapters/
-│   └── universal_adapter.py           # Khớp tương thích ngược mọi thế hệ
-│
-├── mechanisms/                        # 🧩 [CƠ CHẾ PHÂN BÀO & BIẾN HÌNH]
-│   ├── base.py                        # Plugin Interface
-│   ├── mitosis.py                     # Kế thừa F4: Tự phân bào khi file quá tải
-│   ├── reliquary.py                   # Kế thừa F4: Bàn Thờ Tổ Tiên & Trao Huân Chương
-│   ├── transmuter.py                  # 🔥 [MỚI F5]: BỘ BIẾN HÌNH TRI THỨC ĐA CHIỀU (5 CẤP ĐỘ)
-│   ├── antifragile.py                 # 🔥 [MỚI F5]: BẪY HẤP THỤ NĂNG LƯỢNG HACKER THÀNH KHÁNG THỂ
-│   ├── graze.py                       # Gặm cỏ cội nguồn HEAD & Wikipedia
+│   └── universal_adapter.py
+├── mechanisms/
+│   ├── base.py
+│   ├── sandbox.py                     # 🔮 [MỚI F6]: Hộp cát Giả lập Tâm thức & Thử nghiệm Phản thực
+│   ├── macro_mitosis.py               # 🧬 [MỚI F6]: Cơ chế Đại Phân Bào cấp Repo (Nang sinh sản)
+│   ├── negentropy.py                  # 🍃 [MỚI F6]: Động cơ Tiêu hóa Entropy Âm & Cắt tỉa Synapse
+│   ├── transmuter.py                  # Biến hình tri thức 5 cấp độ cho 11 tầng
+│   ├── antifragile.py                 # Hấp thụ năng lượng hacker chuyển hóa thành kháng thể
+│   ├── mitosis.py                     # Kế thừa F4: Phân bào tệp thành thư mục
+│   ├── reliquary.py                   # Kế thừa F4: Bàn thờ tổ tiên & Trao huân chương
 │   ├── consensus.py                   # Thu thập đa luồng siêu tốc
 │   ├── immune.py                      # Hệ miễn dịch Byzantine
 │   ├── xor_learning.py                # Lan truyền ngược Siêu XOR
-│   └── survival.py                    # Khóa xích CID Lượng tử liên hoàn
-│
-├── synapses/                          # 💾 TÚI KÝ ỨC ĐA TẦNG PHÂN TÁN
-│   ├── .gitkeep
-│   ├── peers.json                     # Danh bạ toàn mạng lưới (seed, monad, neuron, shunya...)
-│   ├── state.json                     # Nhật ký thế hệ
-│   ├── trust_matrix.json              # Ma trận tín nhiệm
-│   ├── ancestral_reliquary.json       # Bàn thờ tri ân tệp tổ tiên
-│   ├── honors_registry.json           # Bảng vàng Huân huy chương, Bằng khen, Hoa
-│   └── immune_memory.json             # 🛡️ Túi nhớ kháng thể lưu năng lượng hacker
-│
-├── engine.py                          # 🌌 VI NHÂN F5 OMNI-KERNEL (Python 3.14)
-├── Dockerfile                         # [HẠ TẦNG BẤT TỬ]: python:3.14-slim
+│   └── survival.py                    # Khóa chuỗi Toàn Ảnh Indra
+├── synapses/
+│   ├── peers.json
+│   ├── state.json
+│   ├── seed_capsule.json              # 🆕 Nang bào tử mang ADN sẵn sàng đẻ repo mới
+│   ├── negentropy_report.json         # 🆕 Báo cáo mức độ thanh lọc & tiêu trừ hỗn loạn
+│   ├── ancestral_reliquary.json
+│   ├── honors_registry.json
+│   └── immune_memory.json
+├── engine.py                          # 🌌 Vi nhân F6 Hợp Nhất Tâm Thức & Giả Lập
+├── Dockerfile                         # python:3.14-slim
 └── .github/
     └── workflows/
-        └── node.yml                   # Workflow bọc thép Git Token chống lỗi 128
+        └── node.yml
 ```
