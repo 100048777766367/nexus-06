@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "EP): Drama",
-        "Entertainment November",
-        "Ataíde",
-        "Ataíde the",
         "New",
         "Maine: New",
         "was 577",
@@ -99,7 +95,11 @@
         "Quebec",
         "111: Route",
         "Adriaan",
-        "Adriaan Dortsman,"
+        "Adriaan Dortsman,",
+        "Andre",
+        "Kenneth Andre",
+        "Played",
+        "League Baseball"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -187,6 +187,8 @@
         "Anton --[kobyakov:]--> Anton Kobyakov",
         "Works --[the]--> Presidential Administration",
         "Quebec --[route]--> 111: Route",
-        "Adriaan --[dortsman:]--> Adriaan Dortsman,"
+        "Adriaan --[dortsman:]--> Adriaan Dortsman,",
+        "Andre --[rodgers:]--> Kenneth Andre",
+        "Played --[major]--> League Baseball"
     ]
 }
