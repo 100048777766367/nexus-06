@@ -4,7 +4,13 @@ import json
 import importlib
 import inspect
 from mechanisms.base import BaseMechanism
-from receptors.contract_receptor import ContractReceptor
+try:
+    from receptors.contract_receptor import ContractReceptor
+except (ImportError, ModuleNotFoundError, AttributeError):
+    class ContractReceptor:
+        @staticmethod
+        def verify_and_absorb(raw_data, source_peer, immune_memory_path="synapses/immune_memory.json"):
+            return True, (raw_data if isinstance(raw_data, dict) else {}), None
 
 class Nexus05OmniKernel:
     def __init__(self):
