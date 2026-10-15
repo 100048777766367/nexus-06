@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Halifax",
-        "The Halifax",
-        "Erik",
-        "Erik Källgren",
         "Thomas",
         "Van:",
         "ruined Armenian",
@@ -99,7 +95,11 @@
         "Born",
         "was adopted",
         "2020–21",
-        "Futsal Champions"
+        "Futsal Champions",
+        "Anton",
+        "Anton Kobyakov",
+        "Works",
+        "Presidential Administration"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -183,6 +183,8 @@
         "Was --[the]--> fir",
         "Tariku --[novales:]--> Tariku Novales",
         "Born --[ethiopia,]--> was adopted",
-        "2020–21 --[uefa]--> Futsal Champions"
+        "2020–21 --[uefa]--> Futsal Champions",
+        "Anton --[kobyakov:]--> Anton Kobyakov",
+        "Works --[the]--> Presidential Administration"
     ]
 }
