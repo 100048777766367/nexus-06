@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Offered",
-        "on-deman",
         "Halifax",
         "The Halifax",
         "Erik",
@@ -99,7 +97,9 @@
         "Tariku",
         "Tariku Novales",
         "Born",
-        "was adopted"
+        "was adopted",
+        "2020–21",
+        "Futsal Champions"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -182,6 +182,7 @@
         "Neville --[howse:]--> Major General",
         "Was --[the]--> fir",
         "Tariku --[novales:]--> Tariku Novales",
-        "Born --[ethiopia,]--> was adopted"
+        "Born --[ethiopia,]--> was adopted",
+        "2020–21 --[uefa]--> Futsal Champions"
     ]
 }
