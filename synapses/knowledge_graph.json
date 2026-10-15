@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "From",
-        "was the",
         "Sukkwan",
         "(film): Sukkwan",
         "Kristen",
@@ -99,7 +97,9 @@
         "Staigue",
         "fort: Staigue",
         "Darío",
-        "Darío Lezcano"
+        "Darío Lezcano",
+        "Wood",
+        "Wood Creek"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -155,6 +155,7 @@
         "Vasiliy --[kulik:]--> Vasiliy Sergeyevich",
         "Bernard --[schwartz]--> House: The",
         "Staigue --[stone]--> fort: Staigue",
-        "Darío --[lezcano:]--> Darío Lezcano"
+        "Darío --[lezcano:]--> Darío Lezcano",
+        "Wood --[creek:]--> Wood Creek"
     ]
 }
