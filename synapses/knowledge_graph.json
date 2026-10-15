@@ -97,7 +97,9 @@
         "Vasiliy",
         "Vasiliy Sergeyevich",
         "Bernard",
-        "House: The"
+        "House: The",
+        "Staigue",
+        "fort: Staigue"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -151,6 +153,7 @@
         "Kuntillet --[ajrud]--> inscriptions: The",
         "Brewster --[apartments:]--> The Brewster",
         "Vasiliy --[kulik:]--> Vasiliy Sergeyevich",
-        "Bernard --[schwartz]--> House: The"
+        "Bernard --[schwartz]--> House: The",
+        "Staigue --[stone]--> fort: Staigue"
     ]
 }
