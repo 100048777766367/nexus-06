@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Spirillum:",
-        "genus",
-        "Gram-negative",
-        "the family",
         "Žemaitkiemis",
         "Žemaitkiemis meteorite",
         "Colonel",
@@ -99,7 +95,11 @@
         "called national",
         "Glen",
         "Aitkin County,",
-        "was 432"
+        "was 432",
+        "Herserange:",
+        "commune the",
+        "Part",
+        "urban area"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -194,6 +194,8 @@
         "Carmela --[teoli:]--> Carmela Teoli",
         "Congress --[1912]--> called national",
         "Glen --[township,]--> Aitkin County,",
-        "The --[population]--> was 432"
+        "The --[population]--> was 432",
+        "Herserange: --[herserange]--> commune the",
+        "Part --[the]--> urban area"
     ]
 }
