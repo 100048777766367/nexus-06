@@ -8,14 +8,14 @@ class XorLearningMechanism(BaseMechanism):
     priority = 30
 
     def execute(self, context):
-        swarm = [AtomNeuron(f"n03_h_{i}", n_inputs=4, n_super_xor=4) for i in range(NUM_CELLS)]
-        out_cell = AtomNeuron("n03_out", n_inputs=NUM_CELLS, n_super_xor=4)
+        swarm = [AtomNeuron(f"n06_h_{i}", n_inputs=4, n_super_xor=4) for i in range(NUM_CELLS)]
+        out_cell = AtomNeuron("n06_out", n_inputs=NUM_CELLS, n_super_xor=4)
 
         v_wisdom = context.get("wisdom_vector", [0.5, 0.5, 0.5, 0.5])
         q_dec = context.get("quorum_decision", 0.5)
         
         super_vector = [v_wisdom[0], v_wisdom[1], q_dec, round(1.0 - q_dec, 4)]
-        entangled, masks = swarm[0].super_xor_entangle(super_vector, "nexus03_autogenic_context")
+        entangled, masks = swarm[0].super_xor_entangle(super_vector, "nexus06_causal_context")
 
         h_outs = [cell.forward(entangled) for cell in swarm]
         internal_pred = out_cell.forward(h_outs)
@@ -36,5 +36,6 @@ class XorLearningMechanism(BaseMechanism):
 
         context["final_decision"] = final_decision
         context["grad_backward"] = grad_backward
+        context["super_xor_masks"] = masks
         context["swarm_weights"] = [c.weights for c in swarm]
         context["out_weights"] = out_cell.weights
