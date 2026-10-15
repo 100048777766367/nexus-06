@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mikael",
-        "Mikael Rickfors",
         "From",
         "was the",
         "Sukkwan",
@@ -99,7 +97,9 @@
         "Bernard",
         "House: The",
         "Staigue",
-        "fort: Staigue"
+        "fort: Staigue",
+        "Darío",
+        "Darío Lezcano"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -154,6 +154,7 @@
         "Brewster --[apartments:]--> The Brewster",
         "Vasiliy --[kulik:]--> Vasiliy Sergeyevich",
         "Bernard --[schwartz]--> House: The",
-        "Staigue --[stone]--> fort: Staigue"
+        "Staigue --[stone]--> fort: Staigue",
+        "Darío --[lezcano:]--> Darío Lezcano"
     ]
 }
