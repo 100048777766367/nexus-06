@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sukkwan",
-        "(film): Sukkwan",
         "Kristen",
         "Kristen Elise",
         "Gleicheniales:",
@@ -99,7 +97,9 @@
         "Darío",
         "Darío Lezcano",
         "Wood",
-        "Wood Creek"
+        "Wood Creek",
+        "Blundells",
+        "Blundells Cottage"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -156,6 +156,7 @@
         "Bernard --[schwartz]--> House: The",
         "Staigue --[stone]--> fort: Staigue",
         "Darío --[lezcano:]--> Darío Lezcano",
-        "Wood --[creek:]--> Wood Creek"
+        "Wood --[creek:]--> Wood Creek",
+        "Blundells --[cottage:]--> Blundells Cottage"
     ]
 }
