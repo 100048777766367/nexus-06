@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Islam: Sayed",
-        "Was",
         "general secretary",
         "Patrick",
         "Three-Decker: The",
@@ -99,7 +97,9 @@
         "Artificial",
         "Artificial ruins",
         "Denkmäler",
-        "Ägypten und"
+        "Ägypten und",
+        "Norton",
+        "Norton College"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -176,6 +176,7 @@
         "Melvin --[poh:]--> Melvin Poh",
         "Known --[for]--> his",
         "Artificial --[ruins:]--> Artificial ruins",
-        "Denkmäler --[aus]--> Ägypten und"
+        "Denkmäler --[aus]--> Ägypten und",
+        "Norton --[college:]--> Norton College"
     ]
 }
