@@ -83,7 +83,9 @@
         "Žemaitkiemis",
         "Žemaitkiemis meteorite",
         "Colonel",
-        "and Lord"
+        "and Lord",
+        "Voices",
+        "Voices Sarafina!"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -130,6 +132,7 @@
         "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
-        "Colonel --[acland]--> and Lord"
+        "Colonel --[acland]--> and Lord",
+        "Voices --[sarafina!:]--> Voices Sarafina!"
     ]
 }
