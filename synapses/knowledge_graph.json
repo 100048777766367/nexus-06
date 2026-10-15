@@ -95,7 +95,9 @@
         "Brewster",
         "The Brewster",
         "Vasiliy",
-        "Vasiliy Sergeyevich"
+        "Vasiliy Sergeyevich",
+        "Bernard",
+        "House: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -148,6 +150,7 @@
         "Bazentin-le-petit --[communal]--> Cemetery Extension:",
         "Kuntillet --[ajrud]--> inscriptions: The",
         "Brewster --[apartments:]--> The Brewster",
-        "Vasiliy --[kulik:]--> Vasiliy Sergeyevich"
+        "Vasiliy --[kulik:]--> Vasiliy Sergeyevich",
+        "Bernard --[schwartz]--> House: The"
     ]
 }
