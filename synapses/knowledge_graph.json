@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kristen",
-        "Kristen Elise",
         "Gleicheniales:",
         "order ferns",
         "The",
@@ -99,7 +97,9 @@
         "Wood",
         "Wood Creek",
         "Blundells",
-        "Blundells Cottage"
+        "Blundells Cottage",
+        "Kota",
+        "Kota Samarahan,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -157,6 +157,7 @@
         "Staigue --[stone]--> fort: Staigue",
         "Darío --[lezcano:]--> Darío Lezcano",
         "Wood --[creek:]--> Wood Creek",
-        "Blundells --[cottage:]--> Blundells Cottage"
+        "Blundells --[cottage:]--> Blundells Cottage",
+        "Kota --[samarahan:]--> Kota Samarahan,"
     ]
 }
