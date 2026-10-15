@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Gleicheniales:",
-        "order ferns",
-        "The",
-        "has spore",
         "Anna",
         "Anna Hvoslef",
         "One",
@@ -99,7 +95,11 @@
         "Blundells",
         "Blundells Cottage",
         "Kota",
-        "Kota Samarahan,"
+        "Kota Samarahan,",
+        "Anchisaurus:",
+        "genus basal",
+        "Lived",
+        "the Early"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -158,6 +158,8 @@
         "Darío --[lezcano:]--> Darío Lezcano",
         "Wood --[creek:]--> Wood Creek",
         "Blundells --[cottage:]--> Blundells Cottage",
-        "Kota --[samarahan:]--> Kota Samarahan,"
+        "Kota --[samarahan:]--> Kota Samarahan,",
+        "Anchisaurus: --[anchisaurus]--> genus basal",
+        "Lived --[during]--> the Early"
     ]
 }
