@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Anna",
-        "Anna Hvoslef",
         "One",
         "first female",
         "Middle Ages",
@@ -99,7 +97,9 @@
         "Anchisaurus:",
         "genus basal",
         "Lived",
-        "the Early"
+        "the Early",
+        "2018",
+        "Africa Cup"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -160,6 +160,7 @@
         "Blundells --[cottage:]--> Blundells Cottage",
         "Kota --[samarahan:]--> Kota Samarahan,",
         "Anchisaurus: --[anchisaurus]--> genus basal",
-        "Lived --[during]--> the Early"
+        "Lived --[during]--> the Early",
+        "2018 --[women's]--> Africa Cup"
     ]
 }
