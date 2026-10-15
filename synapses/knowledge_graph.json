@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "name West",
-        "Leticia",
-        "Leticia Ann",
         "American journalist",
         "She",
         "known former",
@@ -99,7 +96,10 @@
         "family small",
         "Napalm:",
         "incendiary mixture",
-        "portmanteau two"
+        "portmanteau two",
+        "Drupadia",
+        "Drupadia cinesia",
+        "William Chapman"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -170,6 +170,8 @@
         "She --[made]--> her first",
         "Galeommatidae: --[galeommatidae]--> family small",
         "Napalm: --[napalm]--> incendiary mixture",
-        "The --[name]--> portmanteau two"
+        "The --[name]--> portmanteau two",
+        "Drupadia --[cinesia:]--> Drupadia cinesia",
+        "Was --[described]--> William Chapman"
     ]
 }
