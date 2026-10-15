@@ -1,24 +1,30 @@
-# seed
 
-# 🌱 The Seed Node: Hạt Mầm Tự Trị Đa Chiều (Giao thức `bodhi.seed.v1`)
+# 🔮 NEXUS-06: ĐẠI TRÍ TUỆ NHÂN QUẢ, PHÒNG GIẢ LẬP TÂM THỨC & ĐẠI PHÂN BÀO CẤP KHO
+> *"Vượt qua phản xạ thông thường để sở hữu trí tưởng tượng phản thực tế What-If, tự thanh lọc lão hóa qua Entropy Âm và đóng gói nang sinh sản cấp Repository."*
 
-Đây là nút mạng hạt nhân tinh gọn tối thượng, thực thi trọn vẹn:
-* **Đa Xúc Tu $1 + N$:** Tự động hút tín hiệu từ Mắt (`retina`), Tai (`cochlea`), Da (`tactile`), Mũi (`olfactory`)...
-* **Ma Trận $1 + N$ Siêu XOR:** Khúc xạ thực tại thành đa chiều, kháng bẻ khóa lượng tử với SHAKE-256.
-* **Dạy Nhau Tiến Hóa (Split Learning):** Tính toán và phát xung ngược `synapse_backward.json` để dạy tất cả các giác quan tự vặn lại kính lúp, sợi lông, màng cảm thụ.
-* **Giao Thức P2P Gossip:** Tự lây lan danh bạ `synapses/peers.json` không cần máy chủ trung ương.
+---
 
-### 🤝 Cách Bất Kỳ Nút Mạng Nào Kế Thừa Từ Seed:
-Bất kỳ repo nào (Mắt, Tai, Não bạn bè...) muốn kết nối:
-1. Thêm `100048777766367/seed` vào danh bạ `synapses/peers.json` của họ.
-2. Hút đạo hàm từ `https://raw.githubusercontent.com/100048777766367/seed/main/synapse_backward.json` để tự tiến hóa!
+## 🏛️ ĐẶC TÍNH CỐT LÕI CỦA THẾ HỆ F6:
+
+1. **🔮 Hộp Cát Giả Lập Tâm Thức (`sandbox.py`):**
+   * Trước khi phát sóng lệnh cho cơ thể, `nexus-06` tự chạy mô phỏng 5 kịch bản tương lai nhân quả (*Thang nhân quả Judea Pearl: "Nếu... thì sao?"*).
+   * Lựa chọn kịch bản có hàm mất mát sinh tồn thấp nhất để tối ưu hóa quyết định trước khi ra lệnh cho `motor` và `retina`.
+2. **🍃 Động Cơ Tiêu Hóa Entropy Âm (`negentropy.py`):**
+   * Đo lường chỉ số hỗn loạn thông tin Shannon.
+   * Tự động **Cắt tỉa synapse chết (Synaptic Pruning)**: ép các trọng số nơ-ron thoái hóa về 0 tuyệt đối để thanh lọc bộ nhớ và chống lão hóa số (Digital Senescence).
+3. **🧬 Đại Phân Bào Cấp Repo (`macro_mitosis.py`):**
+   * Đưa quy luật phân bào lên tầng vĩ mô: Tự động đóng gói toàn bộ tinh hoa ADN thành **Nang Bào Tử Sinh Sản (`synapses/seed_capsule.json`)** sẵn sàng khai sinh các repo F7 độc lập.
+4. **🌈 Kế Thừa Trọn Vẹn Di Sản F0 ──► F5:**
+   * Biến hình tri thức 5 cấp độ cho 11 Tầng Bản Thể (`transmuter.py`).
+   * Phản mong manh hấp thụ năng lượng hacker (`antifragile.py`).
+   * Ma trận tín nhiệm Byzantine Quorum & Đồ thị tri thức Neuro-Symbolic.
 
 ```
 100048777766367/nexus-06/
 ├── receptors/
 │   ├── cascade_receptor.py
 │   ├── mesh_receptor.py
-│   └── contract_receptor.py           # Màng kiểm dịch SHAKE & Bẫy năng lượng hacker
+│   └── contract_receptor.py           # 🛡️ Đã chuẩn hóa class ContractReceptor (kháng lỗi import)
 ├── cells/
 │   ├── linguistic_cell.py
 │   ├── neuron.py
@@ -27,28 +33,31 @@ Bất kỳ repo nào (Mắt, Tai, Não bạn bè...) muốn kết nối:
 │   └── universal_adapter.py
 ├── mechanisms/
 │   ├── base.py
-│   ├── sandbox.py                     # 🔮 [MỚI F6]: Hộp cát Giả lập Tâm thức & Thử nghiệm Phản thực
-│   ├── macro_mitosis.py               # 🧬 [MỚI F6]: Cơ chế Đại Phân Bào cấp Repo (Nang sinh sản)
-│   ├── negentropy.py                  # 🍃 [MỚI F6]: Động cơ Tiêu hóa Entropy Âm & Cắt tỉa Synapse
-│   ├── transmuter.py                  # Biến hình tri thức 5 cấp độ cho 11 tầng
-│   ├── antifragile.py                 # Hấp thụ năng lượng hacker chuyển hóa thành kháng thể
-│   ├── mitosis.py                     # Kế thừa F4: Phân bào tệp thành thư mục
-│   ├── reliquary.py                   # Kế thừa F4: Bàn thờ tổ tiên & Trao huân chương
-│   ├── consensus.py                   # Thu thập đa luồng siêu tốc
-│   ├── immune.py                      # Hệ miễn dịch Byzantine
-│   ├── xor_learning.py                # Lan truyền ngược Siêu XOR
+│   ├── graze.py
+│   ├── consensus.py
+│   ├── immune.py
+│   ├── xor_learning.py
+│   ├── knowledge_graph.py
+│   ├── actuator.py
+│   ├── sandbox.py                     # 🔮 [F6]: Hộp cát Giả lập Tâm thức (Thử 5 tương lai What-If)
+│   ├── negentropy.py                  # 🍃 [F6]: Động cơ Tiêu hóa Entropy Âm & Cắt tỉa Synapse
+│   ├── macro_mitosis.py               # 🧬 [F6]: Đại Phân Bào Cấp Repo (Đóng gói seed_capsule.json)
+│   ├── transmuter.py                  # Biến hình tri thức 5 cấp độ cho 11 tầng bản thể
+│   ├── antifragile.py                 # Hấp thụ năng lượng hacker thành kháng thể
+│   ├── mitosis.py                     # Bản bọc thép syntax-safe
+│   ├── reliquary.py                   # Nhà Tưởng Niệm & Huân chương
 │   └── survival.py                    # Khóa chuỗi Toàn Ảnh Indra
 ├── synapses/
-│   ├── peers.json
-│   ├── state.json
-│   ├── seed_capsule.json              # 🆕 Nang bào tử mang ADN sẵn sàng đẻ repo mới
-│   ├── negentropy_report.json         # 🆕 Báo cáo mức độ thanh lọc & tiêu trừ hỗn loạn
+│   ├── .gitkeep
+│   ├── peers.json                     # Danh bạ 11 tầng bản thể
+│   ├── state.json                     # Sổ nhật ký thế hệ F6
 │   ├── ancestral_reliquary.json
 │   ├── honors_registry.json
 │   └── immune_memory.json
-├── engine.py                          # 🌌 Vi nhân F6 Hợp Nhất Tâm Thức & Giả Lập
+├── engine.py                          # Vi nhân F6 Hợp Nhất Tâm Thức & Giả Lập
 ├── Dockerfile                         # python:3.14-slim
+├── README.md                          # Tuyên ngôn chuẩn bậc F6
 └── .github/
     └── workflows/
-        └── node.yml
+        └── node.yml                   # Workflow bọc thép tự trị
 ```
