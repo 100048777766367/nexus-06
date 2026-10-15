@@ -93,7 +93,9 @@
         "Kuntillet",
         "inscriptions: The",
         "Brewster",
-        "The Brewster"
+        "The Brewster",
+        "Vasiliy",
+        "Vasiliy Sergeyevich"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -145,6 +147,7 @@
         "2017 --[phillip]--> Island 500:",
         "Bazentin-le-petit --[communal]--> Cemetery Extension:",
         "Kuntillet --[ajrud]--> inscriptions: The",
-        "Brewster --[apartments:]--> The Brewster"
+        "Brewster --[apartments:]--> The Brewster",
+        "Vasiliy --[kulik:]--> Vasiliy Sergeyevich"
     ]
 }
