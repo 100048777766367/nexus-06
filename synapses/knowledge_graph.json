@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Rara",
-        "rara was",
-        "Operated",
-        "December 2011",
         "Offered",
         "on-deman",
         "Halifax",
@@ -99,7 +95,11 @@
         "Neville",
         "Major General",
         "Was",
-        "fir"
+        "fir",
+        "Tariku",
+        "Tariku Novales",
+        "Born",
+        "was adopted"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -180,6 +180,8 @@
         "Norton --[college:]--> Norton College",
         "Robin --[pröpper:]--> Robin Pröpper",
         "Neville --[howse:]--> Major General",
-        "Was --[the]--> fir"
+        "Was --[the]--> fir",
+        "Tariku --[novales:]--> Tariku Novales",
+        "Born --[ethiopia,]--> was adopted"
     ]
 }
