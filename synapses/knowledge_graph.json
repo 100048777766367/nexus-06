@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Joseph Harry",
-        "Medborgarplatsen",
-        "station: Medborgarplatsen,",
         "Spirillum:",
         "genus",
         "Gram-negative",
@@ -99,7 +96,10 @@
         "Carmela",
         "Carmela Teoli",
         "Congress",
-        "called national"
+        "called national",
+        "Glen",
+        "Aitkin County,",
+        "was 432"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -192,6 +192,8 @@
         "Played --[major]--> League Baseball",
         "Bakchar: --[bakchar]--> rural locality",
         "Carmela --[teoli:]--> Carmela Teoli",
-        "Congress --[1912]--> called national"
+        "Congress --[1912]--> called national",
+        "Glen --[township,]--> Aitkin County,",
+        "The --[population]--> was 432"
     ]
 }
