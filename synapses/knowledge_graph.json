@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "was 577",
-        "Willie",
-        "William Eldon",
-        "Guy",
         "Joseph Harry",
         "Medborgarplatsen",
         "station: Medborgarplatsen,",
@@ -99,7 +95,11 @@
         "Played",
         "League Baseball",
         "Bakchar:",
-        "rural locality"
+        "rural locality",
+        "Carmela",
+        "Carmela Teoli",
+        "Congress",
+        "called national"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -190,6 +190,8 @@
         "Adriaan --[dortsman:]--> Adriaan Dortsman,",
         "Andre --[rodgers:]--> Kenneth Andre",
         "Played --[major]--> League Baseball",
-        "Bakchar: --[bakchar]--> rural locality"
+        "Bakchar: --[bakchar]--> rural locality",
+        "Carmela --[teoli:]--> Carmela Teoli",
+        "Congress --[1912]--> called national"
     ]
 }
