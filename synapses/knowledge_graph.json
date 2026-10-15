@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The Monastery",
-        "Sayed",
         "Islam: Sayed",
         "Was",
         "general secretary",
@@ -99,7 +97,9 @@
         "Known",
         "his",
         "Artificial",
-        "Artificial ruins"
+        "Artificial ruins",
+        "Denkmäler",
+        "Ägypten und"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -175,6 +175,7 @@
         "Was --[described]--> William Chapman",
         "Melvin --[poh:]--> Melvin Poh",
         "Known --[for]--> his",
-        "Artificial --[ruins:]--> Artificial ruins"
+        "Artificial --[ruins:]--> Artificial ruins",
+        "Denkmäler --[aus]--> Ägypten und"
     ]
 }
