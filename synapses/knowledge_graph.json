@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Colonel",
-        "and Lord",
         "Voices",
         "Voices Sarafina!",
         "2017",
@@ -99,7 +97,9 @@
         "Part",
         "urban area",
         "Ólafur",
-        "Ólafur Indriði"
+        "Ólafur Indriði",
+        "Subway: The",
+        "Buk"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -197,6 +197,8 @@
         "The --[population]--> was 432",
         "Herserange: --[herserange]--> commune the",
         "Part --[the]--> urban area",
-        "Ólafur --[stefánsson:]--> Ólafur Indriði"
+        "Ólafur --[stefánsson:]--> Ólafur Indriði",
+        "The --[stalin]--> Subway: The",
+        "Was --[published]--> Buk"
     ]
 }
