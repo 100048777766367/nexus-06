@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Voices",
-        "Voices Sarafina!",
-        "2017",
         "Island 500:",
         "Bazentin-le-petit",
         "Cemetery Extension:",
@@ -99,7 +96,10 @@
         "Ólafur",
         "Ólafur Indriði",
         "Subway: The",
-        "Buk"
+        "Buk",
+        "Spotlight",
+        "series): Spotlight",
+        "stars Kar"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -199,6 +199,8 @@
         "Part --[the]--> urban area",
         "Ólafur --[stefánsson:]--> Ólafur Indriði",
         "The --[stalin]--> Subway: The",
-        "Was --[published]--> Buk"
+        "Was --[published]--> Buk",
+        "Spotlight --[(web]--> series): Spotlight",
+        "The --[show]--> stars Kar"
     ]
 }
