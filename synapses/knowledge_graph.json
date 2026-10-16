@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kuntillet",
-        "inscriptions: The",
         "Brewster",
         "The Brewster",
         "Vasiliy",
@@ -99,7 +97,9 @@
         "stars Kar",
         "Stay",
         "Stay Tru",
-        "April 18,"
+        "April 18,",
+        "Disappearance",
+        "Provencher: Cédrika"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -203,6 +203,7 @@
         "Spotlight --[(web]--> series): Spotlight",
         "The --[show]--> stars Kar",
         "Stay --[tru:]--> Stay Tru",
-        "Was --[released]--> April 18,"
+        "Was --[released]--> April 18,",
+        "Disappearance --[cédrika]--> Provencher: Cédrika"
     ]
 }
