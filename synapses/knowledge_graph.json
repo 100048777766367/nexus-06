@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Island 500:",
-        "Bazentin-le-petit",
-        "Cemetery Extension:",
         "Kuntillet",
         "inscriptions: The",
         "Brewster",
@@ -99,7 +96,10 @@
         "Buk",
         "Spotlight",
         "series): Spotlight",
-        "stars Kar"
+        "stars Kar",
+        "Stay",
+        "Stay Tru",
+        "April 18,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -201,6 +201,8 @@
         "The --[stalin]--> Subway: The",
         "Was --[published]--> Buk",
         "Spotlight --[(web]--> series): Spotlight",
-        "The --[show]--> stars Kar"
+        "The --[show]--> stars Kar",
+        "Stay --[tru:]--> Stay Tru",
+        "Was --[released]--> April 18,"
     ]
 }
