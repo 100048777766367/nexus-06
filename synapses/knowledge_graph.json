@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Bernard",
-        "House: The",
         "Staigue",
         "fort: Staigue",
         "Darío",
@@ -99,7 +97,9 @@
         "Baetoidea:",
         "superfamily mayflies,",
         "Seva",
-        "(film): Seva"
+        "(film): Seva",
+        "Annunciation",
+        "The Annunciation"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -206,6 +206,7 @@
         "Was --[released]--> April 18,",
         "Disappearance --[cédrika]--> Provencher: Cédrika",
         "Baetoidea: --[baetoidea]--> superfamily mayflies,",
-        "Seva --[sadan]--> (film): Seva"
+        "Seva --[sadan]--> (film): Seva",
+        "Annunciation --[(masolino):]--> The Annunciation"
     ]
 }
