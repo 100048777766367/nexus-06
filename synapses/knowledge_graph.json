@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Brewster",
-        "The Brewster",
         "Vasiliy",
         "Vasiliy Sergeyevich",
         "Bernard",
@@ -99,7 +97,9 @@
         "Stay Tru",
         "April 18,",
         "Disappearance",
-        "Provencher: Cédrika"
+        "Provencher: Cédrika",
+        "Baetoidea:",
+        "superfamily mayflies,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -204,6 +204,7 @@
         "The --[show]--> stars Kar",
         "Stay --[tru:]--> Stay Tru",
         "Was --[released]--> April 18,",
-        "Disappearance --[cédrika]--> Provencher: Cédrika"
+        "Disappearance --[cédrika]--> Provencher: Cédrika",
+        "Baetoidea: --[baetoidea]--> superfamily mayflies,"
     ]
 }
