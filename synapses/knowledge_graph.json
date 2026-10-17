@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Wood",
-        "Wood Creek",
         "Blundells",
         "Blundells Cottage",
         "Kota",
@@ -99,7 +97,9 @@
         "Río",
         "Province: Río",
         "Neighboring",
-        "are from"
+        "are from",
+        "Jamón",
+        "Jamón ibérico,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -209,6 +209,7 @@
         "Seva --[sadan]--> (film): Seva",
         "Annunciation --[(masolino):]--> The Annunciation",
         "Río --[negro]--> Province: Río",
-        "Neighboring --[provinces]--> are from"
+        "Neighboring --[provinces]--> are from",
+        "Jamón --[ibérico:]--> Jamón ibérico,"
     ]
 }
