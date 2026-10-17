@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Staigue",
-        "fort: Staigue",
-        "Darío",
-        "Darío Lezcano",
         "Wood",
         "Wood Creek",
         "Blundells",
@@ -99,7 +95,11 @@
         "Seva",
         "(film): Seva",
         "Annunciation",
-        "The Annunciation"
+        "The Annunciation",
+        "Río",
+        "Province: Río",
+        "Neighboring",
+        "are from"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -207,6 +207,8 @@
         "Disappearance --[cédrika]--> Provencher: Cédrika",
         "Baetoidea: --[baetoidea]--> superfamily mayflies,",
         "Seva --[sadan]--> (film): Seva",
-        "Annunciation --[(masolino):]--> The Annunciation"
+        "Annunciation --[(masolino):]--> The Annunciation",
+        "Río --[negro]--> Province: Río",
+        "Neighboring --[provinces]--> are from"
     ]
 }
