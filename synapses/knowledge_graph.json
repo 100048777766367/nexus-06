@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Vasiliy",
-        "Vasiliy Sergeyevich",
         "Bernard",
         "House: The",
         "Staigue",
@@ -99,7 +97,9 @@
         "Disappearance",
         "Provencher: Cédrika",
         "Baetoidea:",
-        "superfamily mayflies,"
+        "superfamily mayflies,",
+        "Seva",
+        "(film): Seva"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -205,6 +205,7 @@
         "Stay --[tru:]--> Stay Tru",
         "Was --[released]--> April 18,",
         "Disappearance --[cédrika]--> Provencher: Cédrika",
-        "Baetoidea: --[baetoidea]--> superfamily mayflies,"
+        "Baetoidea: --[baetoidea]--> superfamily mayflies,",
+        "Seva --[sadan]--> (film): Seva"
     ]
 }
