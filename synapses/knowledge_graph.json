@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "2018",
-        "Africa Cup",
-        "Quilting",
         "quilting bee",
         "The",
         "commonly used",
@@ -99,7 +96,10 @@
         "Róża",
         "Countess Róża",
         "Ucph",
-        "Computer Science:"
+        "Computer Science:",
+        "Point",
+        "Point Gaul",
+        "had population"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -214,6 +214,8 @@
         "Cottbus --[ii:]--> Cottbus electoral",
         "Elects --[one]--> member via",
         "Róża --[czacka:]--> Countess Róża",
-        "Ucph --[department]--> Computer Science:"
+        "Ucph --[department]--> Computer Science:",
+        "Point --[gaul:]--> Point Gaul",
+        "The --[town]--> had population"
     ]
 }
