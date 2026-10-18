@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lived",
-        "the Early",
         "2018",
         "Africa Cup",
         "Quilting",
@@ -99,7 +97,9 @@
         "Elects",
         "member via",
         "Róża",
-        "Countess Róża"
+        "Countess Róża",
+        "Ucph",
+        "Computer Science:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -213,6 +213,7 @@
         "Jamón --[ibérico:]--> Jamón ibérico,",
         "Cottbus --[ii:]--> Cottbus electoral",
         "Elects --[one]--> member via",
-        "Róża --[czacka:]--> Countess Róża"
+        "Róża --[czacka:]--> Countess Róża",
+        "Ucph --[department]--> Computer Science:"
     ]
 }
