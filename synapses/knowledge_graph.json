@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Blundells",
-        "Blundells Cottage",
-        "Kota",
-        "Kota Samarahan,",
         "Anchisaurus:",
         "genus basal",
         "Lived",
@@ -99,7 +95,11 @@
         "Neighboring",
         "are from",
         "Jamón",
-        "Jamón ibérico,"
+        "Jamón ibérico,",
+        "Cottbus",
+        "Cottbus electoral",
+        "Elects",
+        "member via"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -210,6 +210,8 @@
         "Annunciation --[(masolino):]--> The Annunciation",
         "Río --[negro]--> Province: Río",
         "Neighboring --[provinces]--> are from",
-        "Jamón --[ibérico:]--> Jamón ibérico,"
+        "Jamón --[ibérico:]--> Jamón ibérico,",
+        "Cottbus --[ii:]--> Cottbus electoral",
+        "Elects --[one]--> member via"
     ]
 }
