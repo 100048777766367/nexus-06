@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "commonly used",
-        "Angus",
         "Angus McPhee",
         "Canyons",
         "Ancients Visitor",
@@ -99,7 +97,9 @@
         "Point Gaul",
         "had population",
         "Elizabeth",
-        "Wade: Elizabeth"
+        "Wade: Elizabeth",
+        "The",
+        "Guide Computers:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -217,6 +217,7 @@
         "Ucph --[department]--> Computer Science:",
         "Point --[gaul:]--> Point Gaul",
         "The --[town]--> had population",
-        "Elizabeth --[flint]--> Wade: Elizabeth"
+        "Elizabeth --[flint]--> Wade: Elizabeth",
+        "The --[secret]--> Guide Computers:"
     ]
 }
