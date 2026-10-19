@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Angus McPhee",
-        "Canyons",
         "Ancients Visitor",
         "Ann",
         "(Dallas): Ann",
@@ -99,7 +97,9 @@
         "Elizabeth",
         "Wade: Elizabeth",
         "The",
-        "Guide Computers:"
+        "Guide Computers:",
+        "Loleatta",
+        "album): Loleatta"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -218,6 +218,7 @@
         "Point --[gaul:]--> Point Gaul",
         "The --[town]--> had population",
         "Elizabeth --[flint]--> Wade: Elizabeth",
-        "The --[secret]--> Guide Computers:"
+        "The --[secret]--> Guide Computers:",
+        "Loleatta --[(1973]--> album): Loleatta"
     ]
 }
