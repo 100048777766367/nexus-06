@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "quilting bee",
-        "The",
         "commonly used",
         "Angus",
         "Angus McPhee",
@@ -99,7 +97,9 @@
         "Computer Science:",
         "Point",
         "Point Gaul",
-        "had population"
+        "had population",
+        "Elizabeth",
+        "Wade: Elizabeth"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -216,6 +216,7 @@
         "Róża --[czacka:]--> Countess Róża",
         "Ucph --[department]--> Computer Science:",
         "Point --[gaul:]--> Point Gaul",
-        "The --[town]--> had population"
+        "The --[town]--> had population",
+        "Elizabeth --[flint]--> Wade: Elizabeth"
     ]
 }
