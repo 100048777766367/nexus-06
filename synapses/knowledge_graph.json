@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Ancients Visitor",
-        "Ann",
-        "(Dallas): Ann",
         "her first",
         "Galeommatidae:",
         "family small",
@@ -99,7 +96,10 @@
         "The",
         "Guide Computers:",
         "Loleatta",
-        "album): Loleatta"
+        "album): Loleatta",
+        "Karen",
+        "Karen Paquin",
+        "her power"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -219,6 +219,8 @@
         "The --[town]--> had population",
         "Elizabeth --[flint]--> Wade: Elizabeth",
         "The --[secret]--> Guide Computers:",
-        "Loleatta --[(1973]--> album): Loleatta"
+        "Loleatta --[(1973]--> album): Loleatta",
+        "Karen --[paquin:]--> Karen Paquin",
+        "Known --[for]--> her power"
     ]
 }
