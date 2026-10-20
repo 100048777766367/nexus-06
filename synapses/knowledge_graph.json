@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "family small",
-        "Napalm:",
-        "incendiary mixture",
-        "portmanteau two",
         "Drupadia",
         "Drupadia cinesia",
         "William Chapman",
@@ -99,7 +95,11 @@
         "Karen Paquin",
         "her power",
         "Lecidea",
-        "Lecidea laboriosa"
+        "Lecidea laboriosa",
+        "Beach",
+        "\"Beach Baby\"",
+        "Written",
+        "Carter and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -222,6 +222,8 @@
         "Loleatta --[(1973]--> album): Loleatta",
         "Karen --[paquin:]--> Karen Paquin",
         "Known --[for]--> her power",
-        "Lecidea --[laboriosa:]--> Lecidea laboriosa"
+        "Lecidea --[laboriosa:]--> Lecidea laboriosa",
+        "Beach --[baby:]--> \"Beach Baby\"",
+        "Written --[john]--> Carter and"
     ]
 }
