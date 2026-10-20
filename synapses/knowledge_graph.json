@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "her first",
-        "Galeommatidae:",
         "family small",
         "Napalm:",
         "incendiary mixture",
@@ -99,7 +97,9 @@
         "album): Loleatta",
         "Karen",
         "Karen Paquin",
-        "her power"
+        "her power",
+        "Lecidea",
+        "Lecidea laboriosa"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -221,6 +221,7 @@
         "The --[secret]--> Guide Computers:",
         "Loleatta --[(1973]--> album): Loleatta",
         "Karen --[paquin:]--> Karen Paquin",
-        "Known --[for]--> her power"
+        "Known --[for]--> her power",
+        "Lecidea --[laboriosa:]--> Lecidea laboriosa"
     ]
 }
