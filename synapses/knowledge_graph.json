@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Drupadia",
-        "Drupadia cinesia",
         "William Chapman",
         "Melvin",
         "Melvin Poh",
@@ -99,7 +97,9 @@
         "Beach",
         "\"Beach Baby\"",
         "Written",
-        "Carter and"
+        "Carter and",
+        "Susan",
+        "Akers: Susan"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -224,6 +224,7 @@
         "Known --[for]--> her power",
         "Lecidea --[laboriosa:]--> Lecidea laboriosa",
         "Beach --[baby:]--> \"Beach Baby\"",
-        "Written --[john]--> Carter and"
+        "Written --[john]--> Carter and",
+        "Susan --[grey]--> Akers: Susan"
     ]
 }
