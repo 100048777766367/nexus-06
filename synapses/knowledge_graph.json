@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Denkmäler",
-        "Ägypten und",
         "Norton",
         "Norton College",
         "Robin",
@@ -99,7 +97,9 @@
         "\"Jumpsuit\" song",
         "July 11,",
         "Ubisoft",
-        "Television: Ubisoft"
+        "Television: Ubisoft",
+        "Jashpur",
+        "constituency: Jashpur"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -229,6 +229,7 @@
         "Channa --[mereya]--> (TV series):",
         "Jumpsuit --[(song):]--> \"Jumpsuit\" song",
         "Was --[released]--> July 11,",
-        "Ubisoft --[film]--> Television: Ubisoft"
+        "Ubisoft --[film]--> Television: Ubisoft",
+        "Jashpur --[assembly]--> constituency: Jashpur"
     ]
 }
