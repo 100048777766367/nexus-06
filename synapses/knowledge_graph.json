@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Artificial",
-        "Artificial ruins",
         "Denkmäler",
         "Ägypten und",
         "Norton",
@@ -99,7 +97,9 @@
         "(TV series):",
         "Jumpsuit",
         "\"Jumpsuit\" song",
-        "July 11,"
+        "July 11,",
+        "Ubisoft",
+        "Television: Ubisoft"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -228,6 +228,7 @@
         "Susan --[grey]--> Akers: Susan",
         "Channa --[mereya]--> (TV series):",
         "Jumpsuit --[(song):]--> \"Jumpsuit\" song",
-        "Was --[released]--> July 11,"
+        "Was --[released]--> July 11,",
+        "Ubisoft --[film]--> Television: Ubisoft"
     ]
 }
