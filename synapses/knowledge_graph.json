@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Melvin Poh",
-        "Known",
-        "his",
         "Artificial",
         "Artificial ruins",
         "Denkmäler",
@@ -99,7 +96,10 @@
         "Susan",
         "Akers: Susan",
         "Channa",
-        "(TV series):"
+        "(TV series):",
+        "Jumpsuit",
+        "\"Jumpsuit\" song",
+        "July 11,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -226,6 +226,8 @@
         "Beach --[baby:]--> \"Beach Baby\"",
         "Written --[john]--> Carter and",
         "Susan --[grey]--> Akers: Susan",
-        "Channa --[mereya]--> (TV series):"
+        "Channa --[mereya]--> (TV series):",
+        "Jumpsuit --[(song):]--> \"Jumpsuit\" song",
+        "Was --[released]--> July 11,"
     ]
 }
