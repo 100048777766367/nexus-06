@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "William Chapman",
-        "Melvin",
         "Melvin Poh",
         "Known",
         "his",
@@ -99,7 +97,9 @@
         "Written",
         "Carter and",
         "Susan",
-        "Akers: Susan"
+        "Akers: Susan",
+        "Channa",
+        "(TV series):"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -225,6 +225,7 @@
         "Lecidea --[laboriosa:]--> Lecidea laboriosa",
         "Beach --[baby:]--> \"Beach Baby\"",
         "Written --[john]--> Carter and",
-        "Susan --[grey]--> Akers: Susan"
+        "Susan --[grey]--> Akers: Susan",
+        "Channa --[mereya]--> (TV series):"
     ]
 }
