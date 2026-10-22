@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Tariku",
-        "Tariku Novales",
         "Born",
         "was adopted",
         "2020–21",
@@ -99,7 +97,9 @@
         "Gordon",
         "(cyclist): Gordon",
         "Rider",
-        "sprintin"
+        "sprintin",
+        "Takao",
+        "(Gifu): Takao"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -234,6 +234,7 @@
         "Spicul --[chișcăreni:]--> Spicul Chișcăreni",
         "They --[played]--> the Divizia",
         "Gordon --[fraser]--> (cyclist): Gordon",
-        "Rider --[specialised]--> sprintin"
+        "Rider --[specialised]--> sprintin",
+        "Takao --[station]--> (Gifu): Takao"
     ]
 }
