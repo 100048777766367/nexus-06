@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Norton",
-        "Norton College",
-        "Robin",
-        "Robin Pröpper",
         "Neville",
         "Major General",
         "Was",
@@ -99,7 +95,11 @@
         "Ubisoft",
         "Television: Ubisoft",
         "Jashpur",
-        "constituency: Jashpur"
+        "constituency: Jashpur",
+        "Spicul",
+        "Spicul Chișcăreni",
+        "They",
+        "the Divizia"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -230,6 +230,8 @@
         "Jumpsuit --[(song):]--> \"Jumpsuit\" song",
         "Was --[released]--> July 11,",
         "Ubisoft --[film]--> Television: Ubisoft",
-        "Jashpur --[assembly]--> constituency: Jashpur"
+        "Jashpur --[assembly]--> constituency: Jashpur",
+        "Spicul --[chișcăreni:]--> Spicul Chișcăreni",
+        "They --[played]--> the Divizia"
     ]
 }
