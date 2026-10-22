@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Neville",
-        "Major General",
-        "Was",
-        "fir",
         "Tariku",
         "Tariku Novales",
         "Born",
@@ -99,7 +95,11 @@
         "Spicul",
         "Spicul Chișcăreni",
         "They",
-        "the Divizia"
+        "the Divizia",
+        "Gordon",
+        "(cyclist): Gordon",
+        "Rider",
+        "sprintin"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -232,6 +232,8 @@
         "Ubisoft --[film]--> Television: Ubisoft",
         "Jashpur --[assembly]--> constituency: Jashpur",
         "Spicul --[chișcăreni:]--> Spicul Chișcăreni",
-        "They --[played]--> the Divizia"
+        "They --[played]--> the Divizia",
+        "Gordon --[fraser]--> (cyclist): Gordon",
+        "Rider --[specialised]--> sprintin"
     ]
 }
