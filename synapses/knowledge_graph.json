@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Born",
-        "was adopted",
         "2020–21",
         "Futsal Champions",
         "Anton",
@@ -99,7 +97,9 @@
         "Rider",
         "sprintin",
         "Takao",
-        "(Gifu): Takao"
+        "(Gifu): Takao",
+        "Goodenia",
+        "Goodenia azurea,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -235,6 +235,7 @@
         "They --[played]--> the Divizia",
         "Gordon --[fraser]--> (cyclist): Gordon",
         "Rider --[specialised]--> sprintin",
-        "Takao --[station]--> (Gifu): Takao"
+        "Takao --[station]--> (Gifu): Takao",
+        "Goodenia --[azurea:]--> Goodenia azurea,"
     ]
 }
