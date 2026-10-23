@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "2020–21",
-        "Futsal Champions",
         "Anton",
         "Anton Kobyakov",
         "Works",
@@ -99,7 +97,9 @@
         "Takao",
         "(Gifu): Takao",
         "Goodenia",
-        "Goodenia azurea,"
+        "Goodenia azurea,",
+        "Arjan",
+        "Arjan Lake"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -236,6 +236,7 @@
         "Gordon --[fraser]--> (cyclist): Gordon",
         "Rider --[specialised]--> sprintin",
         "Takao --[station]--> (Gifu): Takao",
-        "Goodenia --[azurea:]--> Goodenia azurea,"
+        "Goodenia --[azurea:]--> Goodenia azurea,",
+        "Arjan --[lake:]--> Arjan Lake"
     ]
 }
