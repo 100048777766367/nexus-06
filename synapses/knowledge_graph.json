@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Anton",
-        "Anton Kobyakov",
-        "Works",
-        "Presidential Administration",
         "Quebec",
         "111: Route",
         "Adriaan",
@@ -99,7 +95,11 @@
         "Goodenia",
         "Goodenia azurea,",
         "Arjan",
-        "Arjan Lake"
+        "Arjan Lake",
+        "Ivo",
+        "Ivo Coccia",
+        "Member",
+        "Christian Democracy"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -237,6 +237,8 @@
         "Rider --[specialised]--> sprintin",
         "Takao --[station]--> (Gifu): Takao",
         "Goodenia --[azurea:]--> Goodenia azurea,",
-        "Arjan --[lake:]--> Arjan Lake"
+        "Arjan --[lake:]--> Arjan Lake",
+        "Ivo --[coccia:]--> Ivo Coccia",
+        "Member --[the]--> Christian Democracy"
     ]
 }
