@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Quebec",
-        "111: Route",
         "Adriaan",
         "Adriaan Dortsman,",
         "Andre",
@@ -99,7 +97,9 @@
         "Ivo",
         "Ivo Coccia",
         "Member",
-        "Christian Democracy"
+        "Christian Democracy",
+        "Stenocactus",
+        "Stenocactus ochoterenianus"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -239,6 +239,7 @@
         "Goodenia --[azurea:]--> Goodenia azurea,",
         "Arjan --[lake:]--> Arjan Lake",
         "Ivo --[coccia:]--> Ivo Coccia",
-        "Member --[the]--> Christian Democracy"
+        "Member --[the]--> Christian Democracy",
+        "Stenocactus --[ochoterenianus:]--> Stenocactus ochoterenianus"
     ]
 }
