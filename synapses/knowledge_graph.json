@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Adriaan",
-        "Adriaan Dortsman,",
-        "Andre",
-        "Kenneth Andre",
         "Played",
         "League Baseball",
         "Bakchar:",
@@ -99,7 +95,11 @@
         "Member",
         "Christian Democracy",
         "Stenocactus",
-        "Stenocactus ochoterenianus"
+        "Stenocactus ochoterenianus",
+        "Schinia",
+        "Schinia hanga",
+        "Found",
+        "America, including"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -240,6 +240,8 @@
         "Arjan --[lake:]--> Arjan Lake",
         "Ivo --[coccia:]--> Ivo Coccia",
         "Member --[the]--> Christian Democracy",
-        "Stenocactus --[ochoterenianus:]--> Stenocactus ochoterenianus"
+        "Stenocactus --[ochoterenianus:]--> Stenocactus ochoterenianus",
+        "Schinia --[hanga:]--> Schinia hanga",
+        "Found --[north]--> America, including"
     ]
 }
