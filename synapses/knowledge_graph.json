@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Played",
-        "League Baseball",
         "Bakchar:",
         "rural locality",
         "Carmela",
@@ -99,7 +97,9 @@
         "Schinia",
         "Schinia hanga",
         "Found",
-        "America, including"
+        "America, including",
+        "Laura",
+        "Laura Pillay"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -242,6 +242,7 @@
         "Member --[the]--> Christian Democracy",
         "Stenocactus --[ochoterenianus:]--> Stenocactus ochoterenianus",
         "Schinia --[hanga:]--> Schinia hanga",
-        "Found --[north]--> America, including"
+        "Found --[north]--> America, including",
+        "Laura --[pillay:]--> Laura Pillay"
     ]
 }
