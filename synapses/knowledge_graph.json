@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Congress",
-        "called national",
-        "Glen",
-        "Aitkin County,",
         "was 432",
         "Herserange:",
         "commune the",
@@ -99,7 +95,11 @@
         "Humza",
         "Humza Mohammed",
         "Produces",
-        "web series"
+        "web series",
+        "Leon",
+        "(politician): Leon",
+        "Served",
+        "the San"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -245,6 +245,8 @@
         "Found --[north]--> America, including",
         "Laura --[pillay:]--> Laura Pillay",
         "Humza --[arshad:]--> Humza Mohammed",
-        "Produces --[the]--> web series"
+        "Produces --[the]--> web series",
+        "Leon --[williams]--> (politician): Leon",
+        "Served --[member]--> the San"
     ]
 }
