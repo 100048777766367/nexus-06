@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "was 432",
-        "Herserange:",
-        "commune the",
-        "Part",
         "urban area",
         "Ólafur",
         "Ólafur Indriði",
@@ -99,7 +95,11 @@
         "Leon",
         "(politician): Leon",
         "Served",
-        "the San"
+        "the San",
+        "Charles",
+        "Orléans: Charles",
+        "Was",
+        "Duke"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -247,6 +247,8 @@
         "Humza --[arshad:]--> Humza Mohammed",
         "Produces --[the]--> web series",
         "Leon --[williams]--> (politician): Leon",
-        "Served --[member]--> the San"
+        "Served --[member]--> the San",
+        "Charles --[duke]--> Orléans: Charles",
+        "Was --[also]--> Duke"
     ]
 }
