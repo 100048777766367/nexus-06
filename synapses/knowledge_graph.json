@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Bakchar:",
-        "rural locality",
-        "Carmela",
-        "Carmela Teoli",
         "Congress",
         "called national",
         "Glen",
@@ -99,7 +95,11 @@
         "Found",
         "America, including",
         "Laura",
-        "Laura Pillay"
+        "Laura Pillay",
+        "Humza",
+        "Humza Mohammed",
+        "Produces",
+        "web series"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -243,6 +243,8 @@
         "Stenocactus --[ochoterenianus:]--> Stenocactus ochoterenianus",
         "Schinia --[hanga:]--> Schinia hanga",
         "Found --[north]--> America, including",
-        "Laura --[pillay:]--> Laura Pillay"
+        "Laura --[pillay:]--> Laura Pillay",
+        "Humza --[arshad:]--> Humza Mohammed",
+        "Produces --[the]--> web series"
     ]
 }
