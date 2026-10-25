@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Stay",
-        "Stay Tru",
-        "April 18,",
         "Disappearance",
         "Provencher: Cédrika",
         "Baetoidea:",
@@ -99,11 +96,12 @@
         "art gallery",
         "Erkki",
         "Erkki Jalmari",
-        "the Parliament"
+        "the Parliament",
+        "the Gray",
+        "Sequel",
+        "Man the"
     ],
     "edges": [
-        "Kristen --[lawrence:]--> Kristen Elise",
-        "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
@@ -251,6 +249,8 @@
         "Birger --[sandzén]--> Memorial Gallery:",
         "The --[memorial]--> art gallery",
         "Erkki --[hara:]--> Erkki Jalmari",
-        "Was --[member]--> the Parliament"
+        "Was --[member]--> the Parliament",
+        "The --[man]--> the Gray",
+        "Sequel --[the]--> Man the"
     ]
 }
