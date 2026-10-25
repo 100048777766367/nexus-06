@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Ólafur Indriði",
-        "Subway: The",
-        "Buk",
         "Spotlight",
         "series): Spotlight",
         "stars Kar",
@@ -99,10 +96,12 @@
         "Was",
         "Duke",
         "Welcome",
-        "Plains: Welcome"
+        "Plains: Welcome",
+        "Birger",
+        "Memorial Gallery:",
+        "art gallery"
     ],
     "edges": [
-        "Mikael --[rickfors:]--> Mikael Rickfors",
         "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
@@ -250,6 +249,8 @@
         "Served --[member]--> the San",
         "Charles --[duke]--> Orléans: Charles",
         "Was --[also]--> Duke",
-        "Welcome --[the]--> Plains: Welcome"
+        "Welcome --[the]--> Plains: Welcome",
+        "Birger --[sandzén]--> Memorial Gallery:",
+        "The --[memorial]--> art gallery"
     ]
 }
