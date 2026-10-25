@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Spotlight",
-        "series): Spotlight",
-        "stars Kar",
         "Stay",
         "Stay Tru",
         "April 18,",
@@ -99,11 +96,12 @@
         "Plains: Welcome",
         "Birger",
         "Memorial Gallery:",
-        "art gallery"
+        "art gallery",
+        "Erkki",
+        "Erkki Jalmari",
+        "the Parliament"
     ],
     "edges": [
-        "From --[1968,]--> was the",
-        "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
@@ -251,6 +249,8 @@
         "Was --[also]--> Duke",
         "Welcome --[the]--> Plains: Welcome",
         "Birger --[sandzén]--> Memorial Gallery:",
-        "The --[memorial]--> art gallery"
+        "The --[memorial]--> art gallery",
+        "Erkki --[hara:]--> Erkki Jalmari",
+        "Was --[member]--> the Parliament"
     ]
 }
