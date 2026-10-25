@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "urban area",
-        "Ólafur",
         "Ólafur Indriði",
         "Subway: The",
         "Buk",
@@ -99,7 +97,9 @@
         "Charles",
         "Orléans: Charles",
         "Was",
-        "Duke"
+        "Duke",
+        "Welcome",
+        "Plains: Welcome"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -249,6 +249,7 @@
         "Leon --[williams]--> (politician): Leon",
         "Served --[member]--> the San",
         "Charles --[duke]--> Orléans: Charles",
-        "Was --[also]--> Duke"
+        "Was --[also]--> Duke",
+        "Welcome --[the]--> Plains: Welcome"
     ]
 }
