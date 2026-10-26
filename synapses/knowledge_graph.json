@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Seva",
-        "(film): Seva",
-        "Annunciation",
         "The Annunciation",
         "Río",
         "Province: Río",
@@ -99,11 +96,12 @@
         "Yaksha",
         "The Yaksha",
         "Kubera",
-        "the"
+        "the",
+        "Never",
+        "End Infinity:",
+        "published KID"
     ],
     "edges": [
-        "One --[norway's]--> first female",
-        "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
@@ -251,6 +249,8 @@
         "The --[man]--> the Gray",
         "Sequel --[the]--> Man the",
         "Yaksha --[kingdom:]--> The Yaksha",
-        "Kubera --[referred]--> the"
+        "Kubera --[referred]--> the",
+        "Never --[the]--> End Infinity:",
+        "Was --[originally]--> published KID"
     ]
 }
