@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The Annunciation",
-        "Río",
         "Province: Río",
         "Neighboring",
         "are from",
@@ -99,10 +97,11 @@
         "the",
         "Never",
         "End Infinity:",
-        "published KID"
+        "published KID",
+        "Maritime",
+        "Maritime Union"
     ],
     "edges": [
-        "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
@@ -251,6 +250,7 @@
         "Yaksha --[kingdom:]--> The Yaksha",
         "Kubera --[referred]--> the",
         "Never --[the]--> End Infinity:",
-        "Was --[originally]--> published KID"
+        "Was --[originally]--> published KID",
+        "Maritime --[union:]--> Maritime Union"
     ]
 }
