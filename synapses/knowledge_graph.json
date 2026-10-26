@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Disappearance",
-        "Provencher: Cédrika",
-        "Baetoidea:",
-        "superfamily mayflies,",
         "Seva",
         "(film): Seva",
         "Annunciation",
@@ -99,11 +95,13 @@
         "the Parliament",
         "the Gray",
         "Sequel",
-        "Man the"
+        "Man the",
+        "Yaksha",
+        "The Yaksha",
+        "Kubera",
+        "the"
     ],
     "edges": [
-        "The --[gleicheniales]--> has spore",
-        "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
@@ -251,6 +249,8 @@
         "Erkki --[hara:]--> Erkki Jalmari",
         "Was --[member]--> the Parliament",
         "The --[man]--> the Gray",
-        "Sequel --[the]--> Man the"
+        "Sequel --[the]--> Man the",
+        "Yaksha --[kingdom:]--> The Yaksha",
+        "Kubera --[referred]--> the"
     ]
 }
