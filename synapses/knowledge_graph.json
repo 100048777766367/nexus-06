@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Countess Róża",
-        "Ucph",
-        "Computer Science:",
-        "Point",
         "Point Gaul",
         "had population",
         "Elizabeth",
@@ -99,11 +95,13 @@
         "Alton,",
         "United States",
         "William",
-        "steamboa"
+        "steamboa",
+        "Gwr",
+        "Class 7802",
+        "Built",
+        "Great Western"
     ],
     "edges": [
-        "Its --[official]--> name West",
-        "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
         "Showalter: --[joseph]--> Baltzell Showalter",
@@ -251,6 +249,8 @@
         "Has --[been]--> ident",
         "Post --[house]--> (Alton, Illinois):",
         "Alton, --[illinois,]--> United States",
-        "William --[post,]--> steamboa"
+        "William --[post,]--> steamboa",
+        "Gwr --[7800]--> Class 7802",
+        "Built --[the]--> Great Western"
     ]
 }
