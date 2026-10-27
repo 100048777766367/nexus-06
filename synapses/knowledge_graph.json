@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Province: Río",
-        "Neighboring",
-        "are from",
-        "Jamón",
         "Jamón ibérico,",
         "Cottbus",
         "Cottbus electoral",
@@ -99,11 +95,13 @@
         "End Infinity:",
         "published KID",
         "Maritime",
-        "Maritime Union"
+        "Maritime Union",
+        "Vescera",
+        "Piscinam): Vescera,",
+        "Has",
+        "ident"
     ],
     "edges": [
-        "Lyckeby: --[lyckeby]--> village Karlskrona",
-        "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
         "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
@@ -251,6 +249,8 @@
         "Kubera --[referred]--> the",
         "Never --[the]--> End Infinity:",
         "Was --[originally]--> published KID",
-        "Maritime --[union:]--> Maritime Union"
+        "Maritime --[union:]--> Maritime Union",
+        "Vescera --[(ad]--> Piscinam): Vescera,",
+        "Has --[been]--> ident"
     ]
 }
