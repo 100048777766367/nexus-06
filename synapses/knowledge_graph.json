@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "Jamón ibérico,",
-        "Cottbus",
-        "Cottbus electoral",
-        "Elects",
-        "member via",
-        "Róża",
         "Countess Róża",
         "Ucph",
         "Computer Science:",
@@ -99,12 +93,15 @@
         "Vescera",
         "Piscinam): Vescera,",
         "Has",
-        "ident"
+        "ident",
+        "Post",
+        "(Alton, Illinois):",
+        "Alton,",
+        "United States",
+        "William",
+        "steamboa"
     ],
     "edges": [
-        "Sir --[roderick]--> Comes Lunch:",
-        "Wodehouse, --[and]--> features the",
-        "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
         "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
@@ -251,6 +248,9 @@
         "Was --[originally]--> published KID",
         "Maritime --[union:]--> Maritime Union",
         "Vescera --[(ad]--> Piscinam): Vescera,",
-        "Has --[been]--> ident"
+        "Has --[been]--> ident",
+        "Post --[house]--> (Alton, Illinois):",
+        "Alton, --[illinois,]--> United States",
+        "William --[post,]--> steamboa"
     ]
 }
