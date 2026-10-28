@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Point Gaul",
-        "had population",
         "Elizabeth",
         "Wade: Elizabeth",
         "The",
@@ -99,10 +97,11 @@
         "Gwr",
         "Class 7802",
         "Built",
-        "Great Western"
+        "Great Western",
+        "Miss",
+        "2024: Miss"
     ],
     "edges": [
-        "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
         "Showalter: --[joseph]--> Baltzell Showalter",
         "Batalha --[monastery:]--> The Monastery",
@@ -251,6 +250,7 @@
         "Alton, --[illinois,]--> United States",
         "William --[post,]--> steamboa",
         "Gwr --[7800]--> Class 7802",
-        "Built --[the]--> Great Western"
+        "Built --[the]--> Great Western",
+        "Miss --[usa]--> 2024: Miss"
     ]
 }
