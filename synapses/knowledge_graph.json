@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Guide Computers:",
-        "Loleatta",
         "album): Loleatta",
         "Karen",
         "Karen Paquin",
@@ -99,10 +97,11 @@
         "2024: Miss",
         "Tudor",
         "The Tudor",
-        "involved"
+        "involved",
+        "Graaff-reinet:",
+        "officially renamed"
     ],
     "edges": [
-        "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
         "Was --[the]--> general secretary",
         "Patrick --[mcguinness]--> Three-Decker: The",
@@ -251,6 +250,7 @@
         "Built --[the]--> Great Western",
         "Miss --[usa]--> 2024: Miss",
         "Tudor --[navy:]--> The Tudor",
-        "The --[period]--> involved"
+        "The --[period]--> involved",
+        "Graaff-reinet: --[graaff-reinet,]--> officially renamed"
     ]
 }
