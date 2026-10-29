@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "album): Loleatta",
-        "Karen",
-        "Karen Paquin",
-        "her power",
         "Lecidea",
         "Lecidea laboriosa",
         "Beach",
@@ -99,11 +95,13 @@
         "The Tudor",
         "involved",
         "Graaff-reinet:",
-        "officially renamed"
+        "officially renamed",
+        "Rumpus",
+        "The Great",
+        "Eliot's",
+        "book Old"
     ],
     "edges": [
-        "Sayed --[ashraful]--> Islam: Sayed",
-        "Was --[the]--> general secretary",
         "Patrick --[mcguinness]--> Three-Decker: The",
         "Anderson --[historic]--> District (Anderson,",
         "The --[amount]--> cotton being",
@@ -251,6 +249,8 @@
         "Miss --[usa]--> 2024: Miss",
         "Tudor --[navy:]--> The Tudor",
         "The --[period]--> involved",
-        "Graaff-reinet: --[graaff-reinet,]--> officially renamed"
+        "Graaff-reinet: --[graaff-reinet,]--> officially renamed",
+        "Rumpus --[cat:]--> The Great",
+        "Eliot's --[1939]--> book Old"
     ]
 }
