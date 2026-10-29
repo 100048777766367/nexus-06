@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lecidea",
-        "Lecidea laboriosa",
         "Beach",
         "\"Beach Baby\"",
         "Written",
@@ -99,10 +97,11 @@
         "Rumpus",
         "The Great",
         "Eliot's",
-        "book Old"
+        "book Old",
+        "Transgender",
+        "(book): Transgender"
     ],
     "edges": [
-        "Patrick --[mcguinness]--> Three-Decker: The",
         "Anderson --[historic]--> District (Anderson,",
         "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
@@ -251,6 +250,7 @@
         "The --[period]--> involved",
         "Graaff-reinet: --[graaff-reinet,]--> officially renamed",
         "Rumpus --[cat:]--> The Great",
-        "Eliot's --[1939]--> book Old"
+        "Eliot's --[1939]--> book Old",
+        "Transgender --[history]--> (book): Transgender"
     ]
 }
