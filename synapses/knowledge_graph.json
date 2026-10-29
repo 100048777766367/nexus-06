@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Beach",
-        "\"Beach Baby\"",
-        "Written",
-        "Carter and",
         "Susan",
         "Akers: Susan",
         "Channa",
@@ -99,11 +95,13 @@
         "Eliot's",
         "book Old",
         "Transgender",
-        "(book): Transgender"
+        "(book): Transgender",
+        "Catsfield:",
+        "village and",
+        "Located",
+        "miles"
     ],
     "edges": [
-        "Anderson --[historic]--> District (Anderson,",
-        "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
         "Operated --[between]--> December 2011",
         "Offered --[ad-free,]--> on-deman",
@@ -251,6 +249,8 @@
         "Graaff-reinet: --[graaff-reinet,]--> officially renamed",
         "Rumpus --[cat:]--> The Great",
         "Eliot's --[1939]--> book Old",
-        "Transgender --[history]--> (book): Transgender"
+        "Transgender --[history]--> (book): Transgender",
+        "Catsfield: --[catsfield]--> village and",
+        "Located --[six]--> miles"
     ]
 }
