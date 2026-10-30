@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "July 11,",
-        "Ubisoft",
-        "Television: Ubisoft",
         "Jashpur",
         "constituency: Jashpur",
         "Spicul",
@@ -99,11 +96,12 @@
         "Heller",
         "Law",
         "Beatrice",
-        "Beatrice Giuliani"
+        "Beatrice Giuliani",
+        "Slave",
+        "album): Slave",
+        "1977 through"
     ],
     "edges": [
-        "Halifax --[resolves:]--> The Halifax",
-        "Erik --[källgren:]--> Erik Källgren",
         "Thomas --[monastery,]--> Van:",
         "Thomas --[monastery]--> ruined Armenian",
         "Drama --[(aespa]--> EP): Drama",
@@ -251,6 +249,8 @@
         "Located --[six]--> miles",
         "John --[yoo:]--> John Choon",
         "Heller --[professor]--> Law",
-        "Beatrice --[giuliani:]--> Beatrice Giuliani"
+        "Beatrice --[giuliani:]--> Beatrice Giuliani",
+        "Slave --[(slave]--> album): Slave",
+        "Was --[released]--> 1977 through"
     ]
 }
