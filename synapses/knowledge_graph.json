@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Susan",
-        "Akers: Susan",
-        "Channa",
-        "(TV series):",
         "Jumpsuit",
         "\"Jumpsuit\" song",
         "July 11,",
@@ -99,11 +95,13 @@
         "Catsfield:",
         "village and",
         "Located",
-        "miles"
+        "miles",
+        "John",
+        "John Choon",
+        "Heller",
+        "Law"
     ],
     "edges": [
-        "Rara --[(service):]--> rara was",
-        "Operated --[between]--> December 2011",
         "Offered --[ad-free,]--> on-deman",
         "Halifax --[resolves:]--> The Halifax",
         "Erik --[källgren:]--> Erik Källgren",
@@ -251,6 +249,8 @@
         "Eliot's --[1939]--> book Old",
         "Transgender --[history]--> (book): Transgender",
         "Catsfield: --[catsfield]--> village and",
-        "Located --[six]--> miles"
+        "Located --[six]--> miles",
+        "John --[yoo:]--> John Choon",
+        "Heller --[professor]--> Law"
     ]
 }
