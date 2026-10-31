@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Jashpur",
-        "constituency: Jashpur",
-        "Spicul",
-        "Spicul Chișcăreni",
         "They",
         "the Divizia",
         "Gordon",
@@ -99,11 +95,13 @@
         "Beatrice Giuliani",
         "Slave",
         "album): Slave",
-        "1977 through"
+        "1977 through",
+        "Vancouver",
+        "Columbia Temple:",
+        "The",
+        "buil"
     ],
     "edges": [
-        "Thomas --[monastery,]--> Van:",
-        "Thomas --[monastery]--> ruined Armenian",
         "Drama --[(aespa]--> EP): Drama",
         "Was --[released]--> Entertainment November",
         "Ataíde --[family:]--> Ataíde the",
@@ -251,6 +249,8 @@
         "Heller --[professor]--> Law",
         "Beatrice --[giuliani:]--> Beatrice Giuliani",
         "Slave --[(slave]--> album): Slave",
-        "Was --[released]--> 1977 through"
+        "Was --[released]--> 1977 through",
+        "Vancouver --[british]--> Columbia Temple:",
+        "The --[intent]--> buil"
     ]
 }
