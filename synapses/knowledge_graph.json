@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Goodenia",
-        "Goodenia azurea,",
         "Arjan",
         "Arjan Lake",
         "Ivo",
@@ -99,10 +97,11 @@
         "Joseph",
         "The History",
         "Abraham",
-        "was the"
+        "was the",
+        "Lizzy",
+        "Dorp: Elisabeth"
     ],
     "edges": [
-        "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
         "Guy --[carbonneau:]--> Joseph Harry",
         "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
@@ -251,6 +250,7 @@
         "Sacred --[heart]--> (Dio album):",
         "Heavy --[metal]--> band Dio",
         "Joseph --[andrews:]--> The History",
-        "Abraham --[adams,]--> was the"
+        "Abraham --[adams,]--> was the",
+        "Lizzy --[van]--> Dorp: Elisabeth"
     ]
 }
