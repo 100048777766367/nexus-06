@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Rider",
-        "sprintin",
-        "Takao",
-        "(Gifu): Takao",
         "Goodenia",
         "Goodenia azurea,",
         "Arjan",
@@ -99,11 +95,13 @@
         "Sacred",
         "(Dio album):",
         "Heavy",
-        "band Dio"
+        "band Dio",
+        "Joseph",
+        "The History",
+        "Abraham",
+        "was the"
     ],
     "edges": [
-        "Ataíde --[family:]--> Ataíde the",
-        "New --[sweden,]--> Maine: New",
         "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
         "Guy --[carbonneau:]--> Joseph Harry",
@@ -251,6 +249,8 @@
         "Vancouver --[british]--> Columbia Temple:",
         "The --[intent]--> buil",
         "Sacred --[heart]--> (Dio album):",
-        "Heavy --[metal]--> band Dio"
+        "Heavy --[metal]--> band Dio",
+        "Joseph --[andrews:]--> The History",
+        "Abraham --[adams,]--> was the"
     ]
 }
