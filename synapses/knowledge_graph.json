@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "They",
-        "the Divizia",
-        "Gordon",
-        "(cyclist): Gordon",
         "Rider",
         "sprintin",
         "Takao",
@@ -99,11 +95,13 @@
         "Vancouver",
         "Columbia Temple:",
         "The",
-        "buil"
+        "buil",
+        "Sacred",
+        "(Dio album):",
+        "Heavy",
+        "band Dio"
     ],
     "edges": [
-        "Drama --[(aespa]--> EP): Drama",
-        "Was --[released]--> Entertainment November",
         "Ataíde --[family:]--> Ataíde the",
         "New --[sweden,]--> Maine: New",
         "The --[population]--> was 577",
@@ -251,6 +249,8 @@
         "Slave --[(slave]--> album): Slave",
         "Was --[released]--> 1977 through",
         "Vancouver --[british]--> Columbia Temple:",
-        "The --[intent]--> buil"
+        "The --[intent]--> buil",
+        "Sacred --[heart]--> (Dio album):",
+        "Heavy --[metal]--> band Dio"
     ]
 }
