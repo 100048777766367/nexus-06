@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ivo Coccia",
-        "Member",
         "Christian Democracy",
         "Stenocactus",
         "Stenocactus ochoterenianus",
@@ -99,10 +97,11 @@
         "Dorp: Elisabeth",
         "Thiodia",
         "Thiodia glandulosana",
-        "Canary Islands"
+        "Canary Islands",
+        "Philip",
+        "Philip Greenspun"
     ],
     "edges": [
-        "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
         "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
@@ -251,6 +250,7 @@
         "Abraham --[adams,]--> was the",
         "Lizzy --[van]--> Dorp: Elisabeth",
         "Thiodia --[glandulosana:]--> Thiodia glandulosana",
-        "Found --[the]--> Canary Islands"
+        "Found --[the]--> Canary Islands",
+        "Philip --[greenspun:]--> Philip Greenspun"
     ]
 }
