@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Christian Democracy",
-        "Stenocactus",
-        "Stenocactus ochoterenianus",
         "Schinia",
         "Schinia hanga",
         "Found",
@@ -99,11 +96,12 @@
         "Thiodia glandulosana",
         "Canary Islands",
         "Philip",
-        "Philip Greenspun"
+        "Philip Greenspun",
+        "Paradonea",
+        "Paradonea presleyi",
+        "and South"
     ],
     "edges": [
-        "Spirillum: --[spirillum]--> genus",
-        "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Colonel --[acland]--> and Lord",
         "Voices --[sarafina!:]--> Voices Sarafina!",
@@ -251,6 +249,8 @@
         "Lizzy --[van]--> Dorp: Elisabeth",
         "Thiodia --[glandulosana:]--> Thiodia glandulosana",
         "Found --[the]--> Canary Islands",
-        "Philip --[greenspun:]--> Philip Greenspun"
+        "Philip --[greenspun:]--> Philip Greenspun",
+        "Paradonea --[presleyi:]--> Paradonea presleyi",
+        "Found --[zimbabwe]--> and South"
     ]
 }
