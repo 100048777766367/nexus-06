@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Arjan",
-        "Arjan Lake",
-        "Ivo",
         "Ivo Coccia",
         "Member",
         "Christian Democracy",
@@ -99,11 +96,12 @@
         "Abraham",
         "was the",
         "Lizzy",
-        "Dorp: Elisabeth"
+        "Dorp: Elisabeth",
+        "Thiodia",
+        "Thiodia glandulosana",
+        "Canary Islands"
     ],
     "edges": [
-        "Willie --[o'ree:]--> William Eldon",
-        "Guy --[carbonneau:]--> Joseph Harry",
         "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
         "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
@@ -251,6 +249,8 @@
         "Heavy --[metal]--> band Dio",
         "Joseph --[andrews:]--> The History",
         "Abraham --[adams,]--> was the",
-        "Lizzy --[van]--> Dorp: Elisabeth"
+        "Lizzy --[van]--> Dorp: Elisabeth",
+        "Thiodia --[glandulosana:]--> Thiodia glandulosana",
+        "Found --[the]--> Canary Islands"
     ]
 }
