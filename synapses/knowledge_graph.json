@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Schinia",
-        "Schinia hanga",
-        "Found",
-        "America, including",
         "Laura",
         "Laura Pillay",
         "Humza",
@@ -99,11 +95,13 @@
         "Philip Greenspun",
         "Paradonea",
         "Paradonea presleyi",
-        "and South"
+        "and South",
+        "Andagadu:",
+        "(transl",
+        "Handsome)",
+        "Telugu-language comedy"
     ],
     "edges": [
-        "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
-        "Colonel --[acland]--> and Lord",
         "Voices --[sarafina!:]--> Voices Sarafina!",
         "2017 --[phillip]--> Island 500:",
         "Bazentin-le-petit --[communal]--> Cemetery Extension:",
@@ -251,6 +249,8 @@
         "Found --[the]--> Canary Islands",
         "Philip --[greenspun:]--> Philip Greenspun",
         "Paradonea --[presleyi:]--> Paradonea presleyi",
-        "Found --[zimbabwe]--> and South"
+        "Found --[zimbabwe]--> and South",
+        "Andagadu: --[andagadu]--> (transl",
+        "Handsome) --[2005]--> Telugu-language comedy"
     ]
 }
