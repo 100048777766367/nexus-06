@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Laura",
-        "Laura Pillay",
         "Humza",
         "Humza Mohammed",
         "Produces",
@@ -99,10 +97,11 @@
         "Andagadu:",
         "(transl",
         "Handsome)",
-        "Telugu-language comedy"
+        "Telugu-language comedy",
+        "America's",
+        "Talent season"
     ],
     "edges": [
-        "Voices --[sarafina!:]--> Voices Sarafina!",
         "2017 --[phillip]--> Island 500:",
         "Bazentin-le-petit --[communal]--> Cemetery Extension:",
         "Kuntillet --[ajrud]--> inscriptions: The",
@@ -251,6 +250,7 @@
         "Paradonea --[presleyi:]--> Paradonea presleyi",
         "Found --[zimbabwe]--> and South",
         "Andagadu: --[andagadu]--> (transl",
-        "Handsome) --[2005]--> Telugu-language comedy"
+        "Handsome) --[2005]--> Telugu-language comedy",
+        "America's --[got]--> Talent season"
     ]
 }
