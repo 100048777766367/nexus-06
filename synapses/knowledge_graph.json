@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Served",
-        "the San",
         "Charles",
         "Orléans: Charles",
         "Was",
@@ -99,10 +97,11 @@
         "Henrique",
         "Henrique Chaves",
         "Portuguese",
-        "driver"
+        "driver",
+        "Karen",
+        "Karen Julia"
     ],
     "edges": [
-        "Brewster --[apartments:]--> The Brewster",
         "Vasiliy --[kulik:]--> Vasiliy Sergeyevich",
         "Bernard --[schwartz]--> House: The",
         "Staigue --[stone]--> fort: Staigue",
@@ -251,6 +250,7 @@
         "America's --[got]--> Talent season",
         "Maireana --[sedifolia:]--> Maireana sedifolia,",
         "Henrique --[chaves:]--> Henrique Chaves",
-        "Portuguese --[racing]--> driver"
+        "Portuguese --[racing]--> driver",
+        "Karen --[carney:]--> Karen Julia"
     ]
 }
