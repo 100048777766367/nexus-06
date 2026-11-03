@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Produces",
-        "web series",
-        "Leon",
-        "(politician): Leon",
         "Served",
         "the San",
         "Charles",
@@ -99,11 +95,13 @@
         "America's",
         "Talent season",
         "Maireana",
-        "Maireana sedifolia,"
+        "Maireana sedifolia,",
+        "Henrique",
+        "Henrique Chaves",
+        "Portuguese",
+        "driver"
     ],
     "edges": [
-        "Bazentin-le-petit --[communal]--> Cemetery Extension:",
-        "Kuntillet --[ajrud]--> inscriptions: The",
         "Brewster --[apartments:]--> The Brewster",
         "Vasiliy --[kulik:]--> Vasiliy Sergeyevich",
         "Bernard --[schwartz]--> House: The",
@@ -251,6 +249,8 @@
         "Andagadu: --[andagadu]--> (transl",
         "Handsome) --[2005]--> Telugu-language comedy",
         "America's --[got]--> Talent season",
-        "Maireana --[sedifolia:]--> Maireana sedifolia,"
+        "Maireana --[sedifolia:]--> Maireana sedifolia,",
+        "Henrique --[chaves:]--> Henrique Chaves",
+        "Portuguese --[racing]--> driver"
     ]
 }
