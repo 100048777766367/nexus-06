@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Welcome",
-        "Plains: Welcome",
         "Birger",
         "Memorial Gallery:",
         "art gallery",
@@ -99,11 +97,11 @@
         "Peace",
         "Dam: The",
         "Lauren",
-        "Lauren Anne"
+        "Lauren Anne",
+        "Tree: The",
+        "follow"
     ],
     "edges": [
-        "Staigue --[stone]--> fort: Staigue",
-        "Darío --[lezcano:]--> Darío Lezcano",
         "Wood --[creek:]--> Wood Creek",
         "Blundells --[cottage:]--> Blundells Cottage",
         "Kota --[samarahan:]--> Kota Samarahan,",
@@ -251,6 +249,8 @@
         "Portuguese --[racing]--> driver",
         "Karen --[carney:]--> Karen Julia",
         "Peace --[canyon]--> Dam: The",
-        "Lauren --[landa:]--> Lauren Anne"
+        "Lauren --[landa:]--> Lauren Anne",
+        "The --[first]--> Tree: The",
+        "The --[game]--> follow"
     ]
 }
