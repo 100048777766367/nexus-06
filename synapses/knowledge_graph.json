@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Charles",
-        "Orléans: Charles",
         "Was",
         "Duke",
         "Welcome",
@@ -99,10 +97,11 @@
         "Portuguese",
         "driver",
         "Karen",
-        "Karen Julia"
+        "Karen Julia",
+        "Peace",
+        "Dam: The"
     ],
     "edges": [
-        "Vasiliy --[kulik:]--> Vasiliy Sergeyevich",
         "Bernard --[schwartz]--> House: The",
         "Staigue --[stone]--> fort: Staigue",
         "Darío --[lezcano:]--> Darío Lezcano",
@@ -251,6 +250,7 @@
         "Maireana --[sedifolia:]--> Maireana sedifolia,",
         "Henrique --[chaves:]--> Henrique Chaves",
         "Portuguese --[racing]--> driver",
-        "Karen --[carney:]--> Karen Julia"
+        "Karen --[carney:]--> Karen Julia",
+        "Peace --[canyon]--> Dam: The"
     ]
 }
