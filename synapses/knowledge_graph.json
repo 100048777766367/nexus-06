@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "Duke",
         "Welcome",
         "Plains: Welcome",
         "Birger",
@@ -99,10 +97,11 @@
         "Karen",
         "Karen Julia",
         "Peace",
-        "Dam: The"
+        "Dam: The",
+        "Lauren",
+        "Lauren Anne"
     ],
     "edges": [
-        "Bernard --[schwartz]--> House: The",
         "Staigue --[stone]--> fort: Staigue",
         "Darío --[lezcano:]--> Darío Lezcano",
         "Wood --[creek:]--> Wood Creek",
@@ -251,6 +250,7 @@
         "Henrique --[chaves:]--> Henrique Chaves",
         "Portuguese --[racing]--> driver",
         "Karen --[carney:]--> Karen Julia",
-        "Peace --[canyon]--> Dam: The"
+        "Peace --[canyon]--> Dam: The",
+        "Lauren --[landa:]--> Lauren Anne"
     ]
 }
