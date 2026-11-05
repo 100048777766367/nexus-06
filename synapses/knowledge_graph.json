@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Sequel",
-        "Man the",
-        "Yaksha",
-        "The Yaksha",
         "Kubera",
         "the",
         "Never",
@@ -99,11 +95,13 @@
         "Euryphaedra:",
         "butterfly genus",
         "Contains",
-        "one species,"
+        "one species,",
+        "Cybaeozyga",
+        "Cybaeozyga furtiva",
+        "Was",
+        "2025"
     ],
     "edges": [
-        "Lived --[during]--> the Early",
-        "2018 --[women's]--> Africa Cup",
         "Quilting --[bee:]--> quilting bee",
         "The --[term]--> commonly used",
         "Angus --[mcphee:]--> Angus McPhee",
@@ -251,6 +249,8 @@
         "The --[firebrand]--> (Kemp novel):",
         "Kemp --[and]--> first published",
         "Euryphaedra: --[euryphaedra]--> butterfly genus",
-        "Contains --[only]--> one species,"
+        "Contains --[only]--> one species,",
+        "Cybaeozyga --[furtiva:]--> Cybaeozyga furtiva",
+        "Was --[described]--> 2025"
     ]
 }
