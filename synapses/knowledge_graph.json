@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Erkki",
-        "Erkki Jalmari",
-        "the Parliament",
-        "the Gray",
         "Sequel",
         "Man the",
         "Yaksha",
@@ -99,11 +95,13 @@
         "follow",
         "(Kemp novel):",
         "Kemp",
-        "first published"
+        "first published",
+        "Euryphaedra:",
+        "butterfly genus",
+        "Contains",
+        "one species,"
     ],
     "edges": [
-        "Kota --[samarahan:]--> Kota Samarahan,",
-        "Anchisaurus: --[anchisaurus]--> genus basal",
         "Lived --[during]--> the Early",
         "2018 --[women's]--> Africa Cup",
         "Quilting --[bee:]--> quilting bee",
@@ -251,6 +249,8 @@
         "The --[first]--> Tree: The",
         "The --[game]--> follow",
         "The --[firebrand]--> (Kemp novel):",
-        "Kemp --[and]--> first published"
+        "Kemp --[and]--> first published",
+        "Euryphaedra: --[euryphaedra]--> butterfly genus",
+        "Contains --[only]--> one species,"
     ]
 }
