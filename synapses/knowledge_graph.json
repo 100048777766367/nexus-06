@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Birger",
-        "Memorial Gallery:",
-        "art gallery",
         "Erkki",
         "Erkki Jalmari",
         "the Parliament",
@@ -99,11 +96,12 @@
         "Lauren",
         "Lauren Anne",
         "Tree: The",
-        "follow"
+        "follow",
+        "(Kemp novel):",
+        "Kemp",
+        "first published"
     ],
     "edges": [
-        "Wood --[creek:]--> Wood Creek",
-        "Blundells --[cottage:]--> Blundells Cottage",
         "Kota --[samarahan:]--> Kota Samarahan,",
         "Anchisaurus: --[anchisaurus]--> genus basal",
         "Lived --[during]--> the Early",
@@ -251,6 +249,8 @@
         "Peace --[canyon]--> Dam: The",
         "Lauren --[landa:]--> Lauren Anne",
         "The --[first]--> Tree: The",
-        "The --[game]--> follow"
+        "The --[game]--> follow",
+        "The --[firebrand]--> (Kemp novel):",
+        "Kemp --[and]--> first published"
     ]
 }
