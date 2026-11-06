@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "published KID",
-        "Maritime",
-        "Maritime Union",
-        "Vescera",
         "Piscinam): Vescera,",
         "Has",
         "ident",
@@ -99,11 +95,13 @@
         "\"jesus",
         "case: The",
         "2008",
-        "Super Cup:"
+        "Super Cup:",
+        "Vic",
+        "Victor Heyliger",
+        "Played",
+        "the National"
     ],
     "edges": [
-        "Angus --[mcphee:]--> Angus McPhee",
-        "Canyons --[the]--> Ancients Visitor",
         "Ann --[ewing]--> (Dallas): Ann",
         "She --[made]--> her first",
         "Galeommatidae: --[galeommatidae]--> family small",
@@ -251,6 +249,8 @@
         "Cybaeozyga --[furtiva:]--> Cybaeozyga furtiva",
         "Was --[described]--> 2025",
         "\"jesus --[saves\"]--> case: The",
-        "2008 --[turkish]--> Super Cup:"
+        "2008 --[turkish]--> Super Cup:",
+        "Vic --[heyliger:]--> Victor Heyliger",
+        "Played --[games]--> the National"
     ]
 }
