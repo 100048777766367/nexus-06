@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kubera",
-        "the",
         "Never",
         "End Infinity:",
         "published KID",
@@ -99,10 +97,11 @@
         "Cybaeozyga",
         "Cybaeozyga furtiva",
         "Was",
-        "2025"
+        "2025",
+        "\"jesus",
+        "case: The"
     ],
     "edges": [
-        "Quilting --[bee:]--> quilting bee",
         "The --[term]--> commonly used",
         "Angus --[mcphee:]--> Angus McPhee",
         "Canyons --[the]--> Ancients Visitor",
@@ -251,6 +250,7 @@
         "Euryphaedra: --[euryphaedra]--> butterfly genus",
         "Contains --[only]--> one species,",
         "Cybaeozyga --[furtiva:]--> Cybaeozyga furtiva",
-        "Was --[described]--> 2025"
+        "Was --[described]--> 2025",
+        "\"jesus --[saves\"]--> case: The"
     ]
 }
