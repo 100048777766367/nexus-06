@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Never",
-        "End Infinity:",
         "published KID",
         "Maritime",
         "Maritime Union",
@@ -99,10 +97,11 @@
         "Was",
         "2025",
         "\"jesus",
-        "case: The"
+        "case: The",
+        "2008",
+        "Super Cup:"
     ],
     "edges": [
-        "The --[term]--> commonly used",
         "Angus --[mcphee:]--> Angus McPhee",
         "Canyons --[the]--> Ancients Visitor",
         "Ann --[ewing]--> (Dallas): Ann",
@@ -251,6 +250,7 @@
         "Contains --[only]--> one species,",
         "Cybaeozyga --[furtiva:]--> Cybaeozyga furtiva",
         "Was --[described]--> 2025",
-        "\"jesus --[saves\"]--> case: The"
+        "\"jesus --[saves\"]--> case: The",
+        "2008 --[turkish]--> Super Cup:"
     ]
 }
