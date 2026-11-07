@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(Alton, Illinois):",
-        "Alton,",
         "United States",
         "William",
         "steamboa",
@@ -99,10 +97,11 @@
         "Villiers",
         "Villiers aristocratic",
         "Over",
-        "various members"
+        "various members",
+        "Canada–united",
+        "relations: Bilateral"
     ],
     "edges": [
-        "Galeommatidae: --[galeommatidae]--> family small",
         "Napalm: --[napalm]--> incendiary mixture",
         "The --[name]--> portmanteau two",
         "Drupadia --[cinesia:]--> Drupadia cinesia",
@@ -251,6 +250,7 @@
         "Vic --[heyliger:]--> Victor Heyliger",
         "Played --[games]--> the National",
         "Villiers --[family:]--> Villiers aristocratic",
-        "Over --[time,]--> various members"
+        "Over --[time,]--> various members",
+        "Canada–united --[kingdom]--> relations: Bilateral"
     ]
 }
