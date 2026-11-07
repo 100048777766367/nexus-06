@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "steamboa",
-        "Gwr",
-        "Class 7802",
-        "Built",
         "Great Western",
         "Miss",
         "2024: Miss",
@@ -99,11 +95,13 @@
         "Canada–united",
         "relations: Bilateral",
         "Mason",
-        "Genomics, Physiology,"
+        "Genomics, Physiology,",
+        "Tobi",
+        "Tobi island",
+        "Wide,",
+        "has area"
     ],
     "edges": [
-        "The --[name]--> portmanteau two",
-        "Drupadia --[cinesia:]--> Drupadia cinesia",
         "Was --[described]--> William Chapman",
         "Melvin --[poh:]--> Melvin Poh",
         "Known --[for]--> his",
@@ -251,6 +249,8 @@
         "Villiers --[family:]--> Villiers aristocratic",
         "Over --[time,]--> various members",
         "Canada–united --[kingdom]--> relations: Bilateral",
-        "Mason --[professor]--> Genomics, Physiology,"
+        "Mason --[professor]--> Genomics, Physiology,",
+        "Tobi --[(island):]--> Tobi island",
+        "Wide, --[and]--> has area"
     ]
 }
