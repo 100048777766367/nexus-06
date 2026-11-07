@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "United States",
-        "William",
         "steamboa",
         "Gwr",
         "Class 7802",
@@ -99,10 +97,11 @@
         "Over",
         "various members",
         "Canada–united",
-        "relations: Bilateral"
+        "relations: Bilateral",
+        "Mason",
+        "Genomics, Physiology,"
     ],
     "edges": [
-        "Napalm: --[napalm]--> incendiary mixture",
         "The --[name]--> portmanteau two",
         "Drupadia --[cinesia:]--> Drupadia cinesia",
         "Was --[described]--> William Chapman",
@@ -251,6 +250,7 @@
         "Played --[games]--> the National",
         "Villiers --[family:]--> Villiers aristocratic",
         "Over --[time,]--> various members",
-        "Canada–united --[kingdom]--> relations: Bilateral"
+        "Canada–united --[kingdom]--> relations: Bilateral",
+        "Mason --[professor]--> Genomics, Physiology,"
     ]
 }
