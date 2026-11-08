@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Great Western",
-        "Miss",
         "2024: Miss",
         "Tudor",
         "The Tudor",
@@ -99,10 +97,11 @@
         "Tobi",
         "Tobi island",
         "Wide,",
-        "has area"
+        "has area",
+        "Kinomiya",
+        "Kinomiya Station"
     ],
     "edges": [
-        "Was --[described]--> William Chapman",
         "Melvin --[poh:]--> Melvin Poh",
         "Known --[for]--> his",
         "Artificial --[ruins:]--> Artificial ruins",
@@ -251,6 +250,7 @@
         "Canada–united --[kingdom]--> relations: Bilateral",
         "Mason --[professor]--> Genomics, Physiology,",
         "Tobi --[(island):]--> Tobi island",
-        "Wide, --[and]--> has area"
+        "Wide, --[and]--> has area",
+        "Kinomiya --[station:]--> Kinomiya Station"
     ]
 }
