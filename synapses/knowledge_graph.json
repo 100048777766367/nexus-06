@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "2024: Miss",
-        "Tudor",
         "The Tudor",
         "involved",
         "Graaff-reinet:",
@@ -99,10 +97,11 @@
         "Wide,",
         "has area",
         "Kinomiya",
-        "Kinomiya Station"
+        "Kinomiya Station",
+        "Leitmeritz",
+        "camp: Leitmeritz"
     ],
     "edges": [
-        "Melvin --[poh:]--> Melvin Poh",
         "Known --[for]--> his",
         "Artificial --[ruins:]--> Artificial ruins",
         "Denkmäler --[aus]--> Ägypten und",
@@ -251,6 +250,7 @@
         "Mason --[professor]--> Genomics, Physiology,",
         "Tobi --[(island):]--> Tobi island",
         "Wide, --[and]--> has area",
-        "Kinomiya --[station:]--> Kinomiya Station"
+        "Kinomiya --[station:]--> Kinomiya Station",
+        "Leitmeritz --[concentration]--> camp: Leitmeritz"
     ]
 }
