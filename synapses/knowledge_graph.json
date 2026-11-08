@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "The Tudor",
-        "involved",
-        "Graaff-reinet:",
-        "officially renamed",
         "Rumpus",
         "The Great",
         "Eliot's",
@@ -99,11 +95,13 @@
         "Kinomiya",
         "Kinomiya Station",
         "Leitmeritz",
-        "camp: Leitmeritz"
+        "camp: Leitmeritz",
+        "Jailhouse",
+        "Jailhouse American",
+        "Formed",
+        "they released"
     ],
     "edges": [
-        "Known --[for]--> his",
-        "Artificial --[ruins:]--> Artificial ruins",
         "Denkmäler --[aus]--> Ägypten und",
         "Norton --[college:]--> Norton College",
         "Robin --[pröpper:]--> Robin Pröpper",
@@ -251,6 +249,8 @@
         "Tobi --[(island):]--> Tobi island",
         "Wide, --[and]--> has area",
         "Kinomiya --[station:]--> Kinomiya Station",
-        "Leitmeritz --[concentration]--> camp: Leitmeritz"
+        "Leitmeritz --[concentration]--> camp: Leitmeritz",
+        "Jailhouse --[(band):]--> Jailhouse American",
+        "Formed --[1987,]--> they released"
     ]
 }
