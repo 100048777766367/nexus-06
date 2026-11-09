@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Eliot's",
-        "book Old",
         "Transgender",
         "(book): Transgender",
         "Catsfield:",
@@ -99,10 +97,11 @@
         "Formed",
         "they released",
         "Arthur",
-        "(British Army"
+        "(British Army",
+        "Sweep",
+        "football): sweep"
     ],
     "edges": [
-        "Norton --[college:]--> Norton College",
         "Robin --[pröpper:]--> Robin Pröpper",
         "Neville --[howse:]--> Major General",
         "Was --[the]--> fir",
@@ -251,6 +250,7 @@
         "Leitmeritz --[concentration]--> camp: Leitmeritz",
         "Jailhouse --[(band):]--> Jailhouse American",
         "Formed --[1987,]--> they released",
-        "Arthur --[bartholomew]--> (British Army"
+        "Arthur --[bartholomew]--> (British Army",
+        "Sweep --[(american]--> football): sweep"
     ]
 }
