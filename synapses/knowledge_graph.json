@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Rumpus",
-        "The Great",
         "Eliot's",
         "book Old",
         "Transgender",
@@ -99,10 +97,11 @@
         "Jailhouse",
         "Jailhouse American",
         "Formed",
-        "they released"
+        "they released",
+        "Arthur",
+        "(British Army"
     ],
     "edges": [
-        "Denkmäler --[aus]--> Ägypten und",
         "Norton --[college:]--> Norton College",
         "Robin --[pröpper:]--> Robin Pröpper",
         "Neville --[howse:]--> Major General",
@@ -251,6 +250,7 @@
         "Kinomiya --[station:]--> Kinomiya Station",
         "Leitmeritz --[concentration]--> camp: Leitmeritz",
         "Jailhouse --[(band):]--> Jailhouse American",
-        "Formed --[1987,]--> they released"
+        "Formed --[1987,]--> they released",
+        "Arthur --[bartholomew]--> (British Army"
     ]
 }
