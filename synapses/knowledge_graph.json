@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Transgender",
-        "(book): Transgender",
-        "Catsfield:",
-        "village and",
         "Located",
         "miles",
         "John",
@@ -99,11 +95,13 @@
         "Arthur",
         "(British Army",
         "Sweep",
-        "football): sweep"
+        "football): sweep",
+        "Amber",
+        "Amber Elizabeth",
+        "She",
+        "for her"
     ],
     "edges": [
-        "Robin --[pröpper:]--> Robin Pröpper",
-        "Neville --[howse:]--> Major General",
         "Was --[the]--> fir",
         "Tariku --[novales:]--> Tariku Novales",
         "Born --[ethiopia,]--> was adopted",
@@ -251,6 +249,8 @@
         "Jailhouse --[(band):]--> Jailhouse American",
         "Formed --[1987,]--> they released",
         "Arthur --[bartholomew]--> (British Army",
-        "Sweep --[(american]--> football): sweep"
+        "Sweep --[(american]--> football): sweep",
+        "Amber --[lyon:]--> Amber Elizabeth",
+        "She --[known]--> for her"
     ]
 }
