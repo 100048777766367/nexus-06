@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Heller",
-        "Law",
         "Beatrice",
         "Beatrice Giuliani",
         "Slave",
@@ -99,10 +97,11 @@
         "Sami",
         "Sami Khedira",
         "Currently",
-        "assistan"
+        "assistan",
+        "Nina",
+        "(La) Nina"
     ],
     "edges": [
-        "Born --[ethiopia,]--> was adopted",
         "2020–21 --[uefa]--> Futsal Champions",
         "Anton --[kobyakov:]--> Anton Kobyakov",
         "Works --[the]--> Presidential Administration",
@@ -251,6 +250,7 @@
         "Amber --[lyon:]--> Amber Elizabeth",
         "She --[known]--> for her",
         "Sami --[khedira:]--> Sami Khedira",
-        "Currently --[the]--> assistan"
+        "Currently --[the]--> assistan",
+        "Nina --[siciliana:]--> (La) Nina"
     ]
 }
