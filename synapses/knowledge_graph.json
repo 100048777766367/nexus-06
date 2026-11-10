@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Located",
-        "miles",
-        "John",
-        "John Choon",
         "Heller",
         "Law",
         "Beatrice",
@@ -99,11 +95,13 @@
         "Amber",
         "Amber Elizabeth",
         "She",
-        "for her"
+        "for her",
+        "Sami",
+        "Sami Khedira",
+        "Currently",
+        "assistan"
     ],
     "edges": [
-        "Was --[the]--> fir",
-        "Tariku --[novales:]--> Tariku Novales",
         "Born --[ethiopia,]--> was adopted",
         "2020–21 --[uefa]--> Futsal Champions",
         "Anton --[kobyakov:]--> Anton Kobyakov",
@@ -251,6 +249,8 @@
         "Arthur --[bartholomew]--> (British Army",
         "Sweep --[(american]--> football): sweep",
         "Amber --[lyon:]--> Amber Elizabeth",
-        "She --[known]--> for her"
+        "She --[known]--> for her",
+        "Sami --[khedira:]--> Sami Khedira",
+        "Currently --[the]--> assistan"
     ]
 }
