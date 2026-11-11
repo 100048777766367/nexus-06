@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Beatrice",
-        "Beatrice Giuliani",
         "Slave",
         "album): Slave",
         "1977 through",
@@ -99,10 +97,11 @@
         "Currently",
         "assistan",
         "Nina",
-        "(La) Nina"
+        "(La) Nina",
+        "Callicore",
+        "Callicore excelsior,"
     ],
     "edges": [
-        "2020–21 --[uefa]--> Futsal Champions",
         "Anton --[kobyakov:]--> Anton Kobyakov",
         "Works --[the]--> Presidential Administration",
         "Quebec --[route]--> 111: Route",
@@ -251,6 +250,7 @@
         "She --[known]--> for her",
         "Sami --[khedira:]--> Sami Khedira",
         "Currently --[the]--> assistan",
-        "Nina --[siciliana:]--> (La) Nina"
+        "Nina --[siciliana:]--> (La) Nina",
+        "Callicore --[excelsior:]--> Callicore excelsior,"
     ]
 }
