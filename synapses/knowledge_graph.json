@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Slave",
-        "album): Slave",
         "1977 through",
         "Vancouver",
         "Columbia Temple:",
@@ -99,10 +97,11 @@
         "Nina",
         "(La) Nina",
         "Callicore",
-        "Callicore excelsior,"
+        "Callicore excelsior,",
+        "2021",
+        "killings: December"
     ],
     "edges": [
-        "Anton --[kobyakov:]--> Anton Kobyakov",
         "Works --[the]--> Presidential Administration",
         "Quebec --[route]--> 111: Route",
         "Adriaan --[dortsman:]--> Adriaan Dortsman,",
@@ -251,6 +250,7 @@
         "Sami --[khedira:]--> Sami Khedira",
         "Currently --[the]--> assistan",
         "Nina --[siciliana:]--> (La) Nina",
-        "Callicore --[excelsior:]--> Callicore excelsior,"
+        "Callicore --[excelsior:]--> Callicore excelsior,",
+        "2021 --[nagaland]--> killings: December"
     ]
 }
