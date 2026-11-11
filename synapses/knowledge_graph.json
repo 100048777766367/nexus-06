@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "1977 through",
-        "Vancouver",
         "Columbia Temple:",
         "The",
         "buil",
@@ -99,10 +97,11 @@
         "Callicore",
         "Callicore excelsior,",
         "2021",
-        "killings: December"
+        "killings: December",
+        "Ncis",
+        "13: The"
     ],
     "edges": [
-        "Works --[the]--> Presidential Administration",
         "Quebec --[route]--> 111: Route",
         "Adriaan --[dortsman:]--> Adriaan Dortsman,",
         "Andre --[rodgers:]--> Kenneth Andre",
@@ -251,6 +250,7 @@
         "Currently --[the]--> assistan",
         "Nina --[siciliana:]--> (La) Nina",
         "Callicore --[excelsior:]--> Callicore excelsior,",
-        "2021 --[nagaland]--> killings: December"
+        "2021 --[nagaland]--> killings: December",
+        "Ncis --[season]--> 13: The"
     ]
 }
