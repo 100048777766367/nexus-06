@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "buil",
-        "Sacred",
         "(Dio album):",
         "Heavy",
         "band Dio",
@@ -99,10 +97,11 @@
         "Ncis",
         "13: The",
         "Ernest",
-        "Sir Albert"
+        "Sir Albert",
+        "Aurel",
+        "Aurel Șelaru"
     ],
     "edges": [
-        "Adriaan --[dortsman:]--> Adriaan Dortsman,",
         "Andre --[rodgers:]--> Kenneth Andre",
         "Played --[major]--> League Baseball",
         "Bakchar: --[bakchar]--> rural locality",
@@ -251,6 +250,7 @@
         "Callicore --[excelsior:]--> Callicore excelsior,",
         "2021 --[nagaland]--> killings: December",
         "Ncis --[season]--> 13: The",
-        "Ernest --[silva:]--> Sir Albert"
+        "Ernest --[silva:]--> Sir Albert",
+        "Aurel --[șelaru:]--> Aurel Șelaru"
     ]
 }
