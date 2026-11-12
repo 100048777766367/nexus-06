@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Columbia Temple:",
-        "The",
         "buil",
         "Sacred",
         "(Dio album):",
@@ -99,10 +97,11 @@
         "2021",
         "killings: December",
         "Ncis",
-        "13: The"
+        "13: The",
+        "Ernest",
+        "Sir Albert"
     ],
     "edges": [
-        "Quebec --[route]--> 111: Route",
         "Adriaan --[dortsman:]--> Adriaan Dortsman,",
         "Andre --[rodgers:]--> Kenneth Andre",
         "Played --[major]--> League Baseball",
@@ -251,6 +250,7 @@
         "Nina --[siciliana:]--> (La) Nina",
         "Callicore --[excelsior:]--> Callicore excelsior,",
         "2021 --[nagaland]--> killings: December",
-        "Ncis --[season]--> 13: The"
+        "Ncis --[season]--> 13: The",
+        "Ernest --[silva:]--> Sir Albert"
     ]
 }
