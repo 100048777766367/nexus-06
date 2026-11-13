@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The History",
-        "Abraham",
         "was the",
         "Lizzy",
         "Dorp: Elisabeth",
@@ -99,10 +97,11 @@
         "Chợ",
         "Chợ Lách",
         "Kokošnje:",
-        "settlement around"
+        "settlement around",
+        "1998",
+        "League Third"
     ],
     "edges": [
-        "Bakchar: --[bakchar]--> rural locality",
         "Carmela --[teoli:]--> Carmela Teoli",
         "Congress --[1912]--> called national",
         "Glen --[township,]--> Aitkin County,",
@@ -251,6 +250,7 @@
         "Ernest --[silva:]--> Sir Albert",
         "Aurel --[șelaru:]--> Aurel Șelaru",
         "Chợ --[lách:]--> Chợ Lách",
-        "Kokošnje: --[kokošnje]--> settlement around"
+        "Kokošnje: --[kokošnje]--> settlement around",
+        "1998 --[football]--> League Third"
     ]
 }
