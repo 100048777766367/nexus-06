@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Dorp: Elisabeth",
-        "Thiodia",
         "Thiodia glandulosana",
         "Canary Islands",
         "Philip",
@@ -99,10 +97,11 @@
         "1998",
         "League Third",
         "San",
-        "Tsai (Tai"
+        "Tsai (Tai",
+        "Are",
+        "are Electrocution"
     ],
     "edges": [
-        "Congress --[1912]--> called national",
         "Glen --[township,]--> Aitkin County,",
         "The --[population]--> was 432",
         "Herserange: --[herserange]--> commune the",
@@ -251,6 +250,7 @@
         "Chợ --[lách:]--> Chợ Lách",
         "Kokošnje: --[kokošnje]--> settlement around",
         "1998 --[football]--> League Third",
-        "San --[wai]--> Tsai (Tai"
+        "San --[wai]--> Tsai (Tai",
+        "Are --[electrocution:]--> are Electrocution"
     ]
 }
