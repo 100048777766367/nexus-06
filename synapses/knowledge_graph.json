@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Thiodia glandulosana",
-        "Canary Islands",
         "Philip",
         "Philip Greenspun",
         "Paradonea",
@@ -99,10 +97,11 @@
         "San",
         "Tsai (Tai",
         "Are",
-        "are Electrocution"
+        "are Electrocution",
+        "Coraciimorphae:",
+        "clade birds"
     ],
     "edges": [
-        "Glen --[township,]--> Aitkin County,",
         "The --[population]--> was 432",
         "Herserange: --[herserange]--> commune the",
         "Part --[the]--> urban area",
@@ -251,6 +250,7 @@
         "Kokošnje: --[kokošnje]--> settlement around",
         "1998 --[football]--> League Third",
         "San --[wai]--> Tsai (Tai",
-        "Are --[electrocution:]--> are Electrocution"
+        "Are --[electrocution:]--> are Electrocution",
+        "Coraciimorphae: --[coraciimorphae]--> clade birds"
     ]
 }
