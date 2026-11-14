@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "was the",
-        "Lizzy",
         "Dorp: Elisabeth",
         "Thiodia",
         "Thiodia glandulosana",
@@ -99,10 +97,11 @@
         "Kokošnje:",
         "settlement around",
         "1998",
-        "League Third"
+        "League Third",
+        "San",
+        "Tsai (Tai"
     ],
     "edges": [
-        "Carmela --[teoli:]--> Carmela Teoli",
         "Congress --[1912]--> called national",
         "Glen --[township,]--> Aitkin County,",
         "The --[population]--> was 432",
@@ -251,6 +250,7 @@
         "Aurel --[șelaru:]--> Aurel Șelaru",
         "Chợ --[lách:]--> Chợ Lách",
         "Kokošnje: --[kokošnje]--> settlement around",
-        "1998 --[football]--> League Third"
+        "1998 --[football]--> League Third",
+        "San --[wai]--> Tsai (Tai"
     ]
 }
