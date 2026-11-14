@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Philip",
-        "Philip Greenspun",
-        "Paradonea",
-        "Paradonea presleyi",
         "and South",
         "Andagadu:",
         "(transl",
@@ -99,11 +95,13 @@
         "Are",
         "are Electrocution",
         "Coraciimorphae:",
-        "clade birds"
+        "clade birds",
+        "Peranemid:",
+        "peranemids are",
+        "They",
+        "the Eugleni"
     ],
     "edges": [
-        "The --[population]--> was 432",
-        "Herserange: --[herserange]--> commune the",
         "Part --[the]--> urban area",
         "Ólafur --[stefánsson:]--> Ólafur Indriði",
         "The --[stalin]--> Subway: The",
@@ -251,6 +249,8 @@
         "1998 --[football]--> League Third",
         "San --[wai]--> Tsai (Tai",
         "Are --[electrocution:]--> are Electrocution",
-        "Coraciimorphae: --[coraciimorphae]--> clade birds"
+        "Coraciimorphae: --[coraciimorphae]--> clade birds",
+        "Peranemid: --[the]--> peranemids are",
+        "They --[belong]--> the Eugleni"
     ]
 }
