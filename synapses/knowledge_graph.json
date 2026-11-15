@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Telugu-language comedy",
-        "America's",
         "Talent season",
         "Maireana",
         "Maireana sedifolia,",
@@ -99,10 +97,11 @@
         "Assembly",
         "Republic (Northern",
         "Has",
-        "elected"
+        "elected",
+        "Diethanolamide:",
+        "are common"
     ],
     "edges": [
-        "The --[stalin]--> Subway: The",
         "Was --[published]--> Buk",
         "Spotlight --[(web]--> series): Spotlight",
         "The --[show]--> stars Kar",
@@ -251,6 +250,7 @@
         "Peranemid: --[the]--> peranemids are",
         "They --[belong]--> the Eugleni",
         "Assembly --[the]--> Republic (Northern",
-        "Has --[members,]--> elected"
+        "Has --[members,]--> elected",
+        "Diethanolamide: --[diethanolamides]--> are common"
     ]
 }
