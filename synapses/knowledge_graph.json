@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "and South",
-        "Andagadu:",
-        "(transl",
-        "Handsome)",
         "Telugu-language comedy",
         "America's",
         "Talent season",
@@ -99,11 +95,13 @@
         "Peranemid:",
         "peranemids are",
         "They",
-        "the Eugleni"
+        "the Eugleni",
+        "Assembly",
+        "Republic (Northern",
+        "Has",
+        "elected"
     ],
     "edges": [
-        "Part --[the]--> urban area",
-        "Ólafur --[stefánsson:]--> Ólafur Indriði",
         "The --[stalin]--> Subway: The",
         "Was --[published]--> Buk",
         "Spotlight --[(web]--> series): Spotlight",
@@ -251,6 +249,8 @@
         "Are --[electrocution:]--> are Electrocution",
         "Coraciimorphae: --[coraciimorphae]--> clade birds",
         "Peranemid: --[the]--> peranemids are",
-        "They --[belong]--> the Eugleni"
+        "They --[belong]--> the Eugleni",
+        "Assembly --[the]--> Republic (Northern",
+        "Has --[members,]--> elected"
     ]
 }
