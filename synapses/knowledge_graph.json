@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Talent season",
-        "Maireana",
         "Maireana sedifolia,",
         "Henrique",
         "Henrique Chaves",
@@ -99,10 +97,11 @@
         "Has",
         "elected",
         "Diethanolamide:",
-        "are common"
+        "are common",
+        "Pennsylvania's",
+        "Senate district:"
     ],
     "edges": [
-        "Was --[published]--> Buk",
         "Spotlight --[(web]--> series): Spotlight",
         "The --[show]--> stars Kar",
         "Stay --[tru:]--> Stay Tru",
@@ -251,6 +250,7 @@
         "They --[belong]--> the Eugleni",
         "Assembly --[the]--> Republic (Northern",
         "Has --[members,]--> elected",
-        "Diethanolamide: --[diethanolamides]--> are common"
+        "Diethanolamide: --[diethanolamides]--> are common",
+        "Pennsylvania's --[9th]--> Senate district:"
     ]
 }
