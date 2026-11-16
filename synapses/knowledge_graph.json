@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Henrique Chaves",
-        "Portuguese",
-        "driver",
-        "Karen",
         "Karen Julia",
         "Peace",
         "Dam: The",
@@ -99,11 +95,13 @@
         "Pennsylvania's",
         "Senate district:",
         "Valdecastillo:",
-        "locality located"
+        "locality located",
+        "Xerces",
+        "The Xerces",
+        "The",
+        "live"
     ],
     "edges": [
-        "The --[show]--> stars Kar",
-        "Stay --[tru:]--> Stay Tru",
         "Was --[released]--> April 18,",
         "Disappearance --[cédrika]--> Provencher: Cédrika",
         "Baetoidea: --[baetoidea]--> superfamily mayflies,",
@@ -251,6 +249,8 @@
         "Has --[members,]--> elected",
         "Diethanolamide: --[diethanolamides]--> are common",
         "Pennsylvania's --[9th]--> Senate district:",
-        "Valdecastillo: --[valdecastillo]--> locality located"
+        "Valdecastillo: --[valdecastillo]--> locality located",
+        "Xerces --[blue:]--> The Xerces",
+        "The --[species]--> live"
     ]
 }
