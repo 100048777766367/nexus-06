@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Maireana sedifolia,",
-        "Henrique",
         "Henrique Chaves",
         "Portuguese",
         "driver",
@@ -99,10 +97,11 @@
         "Diethanolamide:",
         "are common",
         "Pennsylvania's",
-        "Senate district:"
+        "Senate district:",
+        "Valdecastillo:",
+        "locality located"
     ],
     "edges": [
-        "Spotlight --[(web]--> series): Spotlight",
         "The --[show]--> stars Kar",
         "Stay --[tru:]--> Stay Tru",
         "Was --[released]--> April 18,",
@@ -251,6 +250,7 @@
         "Assembly --[the]--> Republic (Northern",
         "Has --[members,]--> elected",
         "Diethanolamide: --[diethanolamides]--> are common",
-        "Pennsylvania's --[9th]--> Senate district:"
+        "Pennsylvania's --[9th]--> Senate district:",
+        "Valdecastillo: --[valdecastillo]--> locality located"
     ]
 }
