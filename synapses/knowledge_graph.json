@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lauren Anne",
-        "Tree: The",
         "follow",
         "(Kemp novel):",
         "Kemp",
@@ -99,10 +97,11 @@
         "Sigurd",
         "Sigurd opera",
         "South",
-        "Tennessee: South"
+        "Tennessee: South",
+        "Lamé's",
+        "quartic: Lamé's"
     ],
     "edges": [
-        "Baetoidea: --[baetoidea]--> superfamily mayflies,",
         "Seva --[sadan]--> (film): Seva",
         "Annunciation --[(masolino):]--> The Annunciation",
         "Río --[negro]--> Province: Río",
@@ -251,6 +250,7 @@
         "Xerces --[blue:]--> The Xerces",
         "The --[species]--> live",
         "Sigurd --[(opera):]--> Sigurd opera",
-        "South --[guthrie,]--> Tennessee: South"
+        "South --[guthrie,]--> Tennessee: South",
+        "Lamé's --[special]--> quartic: Lamé's"
     ]
 }
