@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Karen Julia",
-        "Peace",
         "Dam: The",
         "Lauren",
         "Lauren Anne",
@@ -99,10 +97,11 @@
         "Xerces",
         "The Xerces",
         "The",
-        "live"
+        "live",
+        "Sigurd",
+        "Sigurd opera"
     ],
     "edges": [
-        "Was --[released]--> April 18,",
         "Disappearance --[cédrika]--> Provencher: Cédrika",
         "Baetoidea: --[baetoidea]--> superfamily mayflies,",
         "Seva --[sadan]--> (film): Seva",
@@ -251,6 +250,7 @@
         "Pennsylvania's --[9th]--> Senate district:",
         "Valdecastillo: --[valdecastillo]--> locality located",
         "Xerces --[blue:]--> The Xerces",
-        "The --[species]--> live"
+        "The --[species]--> live",
+        "Sigurd --[(opera):]--> Sigurd opera"
     ]
 }
