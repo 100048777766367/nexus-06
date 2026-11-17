@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Dam: The",
-        "Lauren",
         "Lauren Anne",
         "Tree: The",
         "follow",
@@ -99,10 +97,11 @@
         "The",
         "live",
         "Sigurd",
-        "Sigurd opera"
+        "Sigurd opera",
+        "South",
+        "Tennessee: South"
     ],
     "edges": [
-        "Disappearance --[cédrika]--> Provencher: Cédrika",
         "Baetoidea: --[baetoidea]--> superfamily mayflies,",
         "Seva --[sadan]--> (film): Seva",
         "Annunciation --[(masolino):]--> The Annunciation",
@@ -251,6 +250,7 @@
         "Valdecastillo: --[valdecastillo]--> locality located",
         "Xerces --[blue:]--> The Xerces",
         "The --[species]--> live",
-        "Sigurd --[(opera):]--> Sigurd opera"
+        "Sigurd --[(opera):]--> Sigurd opera",
+        "South --[guthrie,]--> Tennessee: South"
     ]
 }
