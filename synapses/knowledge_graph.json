@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "follow",
-        "(Kemp novel):",
         "Kemp",
         "first published",
         "Euryphaedra:",
@@ -99,10 +97,11 @@
         "South",
         "Tennessee: South",
         "Lamé's",
-        "quartic: Lamé's"
+        "quartic: Lamé's",
+        "Nature",
+        "Microbiology: Nature"
     ],
     "edges": [
-        "Seva --[sadan]--> (film): Seva",
         "Annunciation --[(masolino):]--> The Annunciation",
         "Río --[negro]--> Province: Río",
         "Neighboring --[provinces]--> are from",
@@ -251,6 +250,7 @@
         "The --[species]--> live",
         "Sigurd --[(opera):]--> Sigurd opera",
         "South --[guthrie,]--> Tennessee: South",
-        "Lamé's --[special]--> quartic: Lamé's"
+        "Lamé's --[special]--> quartic: Lamé's",
+        "Nature --[reviews]--> Microbiology: Nature"
     ]
 }
