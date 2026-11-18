@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Kemp",
-        "first published",
-        "Euryphaedra:",
-        "butterfly genus",
         "Contains",
         "one species,",
         "Cybaeozyga",
@@ -99,11 +95,13 @@
         "Lamé's",
         "quartic: Lamé's",
         "Nature",
-        "Microbiology: Nature"
+        "Microbiology: Nature",
+        "Francis",
+        "Sherman: Francis",
+        "Served",
+        "cavalry and"
     ],
     "edges": [
-        "Annunciation --[(masolino):]--> The Annunciation",
-        "Río --[negro]--> Province: Río",
         "Neighboring --[provinces]--> are from",
         "Jamón --[ibérico:]--> Jamón ibérico,",
         "Cottbus --[ii:]--> Cottbus electoral",
@@ -251,6 +249,8 @@
         "Sigurd --[(opera):]--> Sigurd opera",
         "South --[guthrie,]--> Tennessee: South",
         "Lamé's --[special]--> quartic: Lamé's",
-        "Nature --[reviews]--> Microbiology: Nature"
+        "Nature --[reviews]--> Microbiology: Nature",
+        "Francis --[trowbridge]--> Sherman: Francis",
+        "Served --[the]--> cavalry and"
     ]
 }
