@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "\"jesus",
-        "case: The",
-        "2008",
         "Super Cup:",
         "Vic",
         "Victor Heyliger",
@@ -99,11 +96,12 @@
         "Mi)",
         "heritage railway",
         "Shiba",
-        "Shiba clan"
+        "Shiba clan",
+        "Buffalo",
+        "Hawks: The",
+        "was member"
     ],
     "edges": [
-        "Elects --[one]--> member via",
-        "Róża --[czacka:]--> Countess Róża",
         "Ucph --[department]--> Computer Science:",
         "Point --[gaul:]--> Point Gaul",
         "The --[town]--> had population",
@@ -251,6 +249,8 @@
         "Served --[the]--> cavalry and",
         "Chemin --[fer]--> Val Passey:",
         "Mi) --[long]--> heritage railway",
-        "Shiba --[clan:]--> Shiba clan"
+        "Shiba --[clan:]--> Shiba clan",
+        "Buffalo --[blue]--> Hawks: The",
+        "The --[team]--> was member"
     ]
 }
