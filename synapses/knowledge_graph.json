@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Contains",
-        "one species,",
-        "Cybaeozyga",
-        "Cybaeozyga furtiva",
         "Was",
         "2025",
         "\"jesus",
@@ -99,11 +95,13 @@
         "Francis",
         "Sherman: Francis",
         "Served",
-        "cavalry and"
+        "cavalry and",
+        "Chemin",
+        "Val Passey:",
+        "Mi)",
+        "heritage railway"
     ],
     "edges": [
-        "Neighboring --[provinces]--> are from",
-        "Jamón --[ibérico:]--> Jamón ibérico,",
         "Cottbus --[ii:]--> Cottbus electoral",
         "Elects --[one]--> member via",
         "Róża --[czacka:]--> Countess Róża",
@@ -251,6 +249,8 @@
         "Lamé's --[special]--> quartic: Lamé's",
         "Nature --[reviews]--> Microbiology: Nature",
         "Francis --[trowbridge]--> Sherman: Francis",
-        "Served --[the]--> cavalry and"
+        "Served --[the]--> cavalry and",
+        "Chemin --[fer]--> Val Passey:",
+        "Mi) --[long]--> heritage railway"
     ]
 }
