@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "2025",
         "\"jesus",
         "case: The",
         "2008",
@@ -99,10 +97,11 @@
         "Chemin",
         "Val Passey:",
         "Mi)",
-        "heritage railway"
+        "heritage railway",
+        "Shiba",
+        "Shiba clan"
     ],
     "edges": [
-        "Cottbus --[ii:]--> Cottbus electoral",
         "Elects --[one]--> member via",
         "Róża --[czacka:]--> Countess Róża",
         "Ucph --[department]--> Computer Science:",
@@ -251,6 +250,7 @@
         "Francis --[trowbridge]--> Sherman: Francis",
         "Served --[the]--> cavalry and",
         "Chemin --[fer]--> Val Passey:",
-        "Mi) --[long]--> heritage railway"
+        "Mi) --[long]--> heritage railway",
+        "Shiba --[clan:]--> Shiba clan"
     ]
 }
