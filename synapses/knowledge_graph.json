@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Super Cup:",
-        "Vic",
-        "Victor Heyliger",
-        "Played",
         "the National",
         "Villiers",
         "Villiers aristocratic",
@@ -99,11 +95,13 @@
         "Shiba clan",
         "Buffalo",
         "Hawks: The",
-        "was member"
+        "was member",
+        "John",
+        "John Lowndes",
+        "Member",
+        "Democratic Party,"
     ],
     "edges": [
-        "Ucph --[department]--> Computer Science:",
-        "Point --[gaul:]--> Point Gaul",
         "The --[town]--> had population",
         "Elizabeth --[flint]--> Wade: Elizabeth",
         "The --[secret]--> Guide Computers:",
@@ -251,6 +249,8 @@
         "Mi) --[long]--> heritage railway",
         "Shiba --[clan:]--> Shiba clan",
         "Buffalo --[blue]--> Hawks: The",
-        "The --[team]--> was member"
+        "The --[team]--> was member",
+        "John --[lowndes:]--> John Lowndes",
+        "Member --[the]--> Democratic Party,"
     ]
 }
