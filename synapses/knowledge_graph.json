@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "the National",
-        "Villiers",
-        "Villiers aristocratic",
-        "Over",
         "various members",
         "Canada–united",
         "relations: Bilateral",
@@ -99,11 +95,13 @@
         "John",
         "John Lowndes",
         "Member",
-        "Democratic Party,"
+        "Democratic Party,",
+        "Courtland",
+        "Courtland Milloy",
+        "Joined",
+        "Post 1975"
     ],
     "edges": [
-        "The --[town]--> had population",
-        "Elizabeth --[flint]--> Wade: Elizabeth",
         "The --[secret]--> Guide Computers:",
         "Loleatta --[(1973]--> album): Loleatta",
         "Karen --[paquin:]--> Karen Paquin",
@@ -251,6 +249,8 @@
         "Buffalo --[blue]--> Hawks: The",
         "The --[team]--> was member",
         "John --[lowndes:]--> John Lowndes",
-        "Member --[the]--> Democratic Party,"
+        "Member --[the]--> Democratic Party,",
+        "Courtland --[milloy:]--> Courtland Milloy",
+        "Joined --[the]--> Post 1975"
     ]
 }
