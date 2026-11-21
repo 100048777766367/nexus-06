@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "various members",
-        "Canada–united",
         "relations: Bilateral",
         "Mason",
         "Genomics, Physiology,",
@@ -99,10 +97,11 @@
         "Courtland",
         "Courtland Milloy",
         "Joined",
-        "Post 1975"
+        "Post 1975",
+        "Søreide",
+        "Søreide Church"
     ],
     "edges": [
-        "The --[secret]--> Guide Computers:",
         "Loleatta --[(1973]--> album): Loleatta",
         "Karen --[paquin:]--> Karen Paquin",
         "Known --[for]--> her power",
@@ -251,6 +250,7 @@
         "John --[lowndes:]--> John Lowndes",
         "Member --[the]--> Democratic Party,",
         "Courtland --[milloy:]--> Courtland Milloy",
-        "Joined --[the]--> Post 1975"
+        "Joined --[the]--> Post 1975",
+        "Søreide --[church:]--> Søreide Church"
     ]
 }
