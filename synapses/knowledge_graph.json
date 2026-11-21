@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Wide,",
-        "has area",
-        "Kinomiya",
-        "Kinomiya Station",
         "Leitmeritz",
         "camp: Leitmeritz",
         "Jailhouse",
@@ -99,11 +95,13 @@
         "The Victoria",
         "flesh with",
         "This",
-        "cultivar"
+        "cultivar",
+        "Mykolayiv",
+        "Mykolaiv Shipyard",
+        "Originally",
+        "the Nikolayev"
     ],
     "edges": [
-        "Lecidea --[laboriosa:]--> Lecidea laboriosa",
-        "Beach --[baby:]--> \"Beach Baby\"",
         "Written --[john]--> Carter and",
         "Susan --[grey]--> Akers: Susan",
         "Channa --[mereya]--> (TV series):",
@@ -251,6 +249,8 @@
         "Søreide --[church:]--> Søreide Church",
         "Victoria --[plum:]--> The Victoria",
         "Has --[yellow]--> flesh with",
-        "This --[plum]--> cultivar"
+        "This --[plum]--> cultivar",
+        "Mykolayiv --[shipyard:]--> Mykolaiv Shipyard",
+        "Originally --[named]--> the Nikolayev"
     ]
 }
