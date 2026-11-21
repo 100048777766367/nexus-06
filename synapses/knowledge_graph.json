@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "relations: Bilateral",
-        "Mason",
-        "Genomics, Physiology,",
-        "Tobi",
-        "Tobi island",
         "Wide,",
         "has area",
         "Kinomiya",
@@ -99,12 +94,14 @@
         "Joined",
         "Post 1975",
         "Søreide",
-        "Søreide Church"
+        "Søreide Church",
+        "Victoria",
+        "The Victoria",
+        "flesh with",
+        "This",
+        "cultivar"
     ],
     "edges": [
-        "Loleatta --[(1973]--> album): Loleatta",
-        "Karen --[paquin:]--> Karen Paquin",
-        "Known --[for]--> her power",
         "Lecidea --[laboriosa:]--> Lecidea laboriosa",
         "Beach --[baby:]--> \"Beach Baby\"",
         "Written --[john]--> Carter and",
@@ -251,6 +248,9 @@
         "Member --[the]--> Democratic Party,",
         "Courtland --[milloy:]--> Courtland Milloy",
         "Joined --[the]--> Post 1975",
-        "Søreide --[church:]--> Søreide Church"
+        "Søreide --[church:]--> Søreide Church",
+        "Victoria --[plum:]--> The Victoria",
+        "Has --[yellow]--> flesh with",
+        "This --[plum]--> cultivar"
     ]
 }
