@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "they released",
-        "Arthur",
         "(British Army",
         "Sweep",
         "football): sweep",
@@ -99,10 +97,11 @@
         "Mirza Begić",
         "Center,",
         "the",
-        "(band): The"
+        "(band): The",
+        "Abbreviation",
+        "Artists' Network"
     ],
     "edges": [
-        "Jumpsuit --[(song):]--> \"Jumpsuit\" song",
         "Was --[released]--> July 11,",
         "Ubisoft --[film]--> Television: Ubisoft",
         "Jashpur --[assembly]--> constituency: Jashpur",
@@ -251,6 +250,7 @@
         "Originally --[named]--> the Nikolayev",
         "Mirza --[begić:]--> Mirza Begić",
         "Center, --[represented]--> the",
-        "The --[fugitives]--> (band): The"
+        "The --[fugitives]--> (band): The",
+        "Abbreviation --[hokkaido]--> Artists' Network"
     ]
 }
