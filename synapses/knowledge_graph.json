@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Leitmeritz",
-        "camp: Leitmeritz",
-        "Jailhouse",
-        "Jailhouse American",
         "Formed",
         "they released",
         "Arthur",
@@ -99,11 +95,13 @@
         "Mykolayiv",
         "Mykolaiv Shipyard",
         "Originally",
-        "the Nikolayev"
+        "the Nikolayev",
+        "Mirza",
+        "Mirza Begić",
+        "Center,",
+        "the"
     ],
     "edges": [
-        "Written --[john]--> Carter and",
-        "Susan --[grey]--> Akers: Susan",
         "Channa --[mereya]--> (TV series):",
         "Jumpsuit --[(song):]--> \"Jumpsuit\" song",
         "Was --[released]--> July 11,",
@@ -251,6 +249,8 @@
         "Has --[yellow]--> flesh with",
         "This --[plum]--> cultivar",
         "Mykolayiv --[shipyard:]--> Mykolaiv Shipyard",
-        "Originally --[named]--> the Nikolayev"
+        "Originally --[named]--> the Nikolayev",
+        "Mirza --[begić:]--> Mirza Begić",
+        "Center, --[represented]--> the"
     ]
 }
