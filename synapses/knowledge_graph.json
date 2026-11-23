@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "football): sweep",
-        "Amber",
-        "Amber Elizabeth",
-        "She",
         "for her",
         "Sami",
         "Sami Khedira",
@@ -99,11 +95,13 @@
         "Abbreviation",
         "Artists' Network",
         "Reinhard",
-        "Reinhard Johannes"
+        "Reinhard Johannes",
+        "Hamburg-mitte",
+        "district): Hamburg-Mitte",
+        "Elects",
+        "member via"
     ],
     "edges": [
-        "Ubisoft --[film]--> Television: Ubisoft",
-        "Jashpur --[assembly]--> constituency: Jashpur",
         "Spicul --[chișcăreni:]--> Spicul Chișcăreni",
         "They --[played]--> the Divizia",
         "Gordon --[fraser]--> (cyclist): Gordon",
@@ -251,6 +249,8 @@
         "Center, --[represented]--> the",
         "The --[fugitives]--> (band): The",
         "Abbreviation --[hokkaido]--> Artists' Network",
-        "Reinhard --[teufel:]--> Reinhard Johannes"
+        "Reinhard --[teufel:]--> Reinhard Johannes",
+        "Hamburg-mitte --[(electoral]--> district): Hamburg-Mitte",
+        "Elects --[one]--> member via"
     ]
 }
