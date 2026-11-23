@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(British Army",
-        "Sweep",
         "football): sweep",
         "Amber",
         "Amber Elizabeth",
@@ -99,10 +97,11 @@
         "the",
         "(band): The",
         "Abbreviation",
-        "Artists' Network"
+        "Artists' Network",
+        "Reinhard",
+        "Reinhard Johannes"
     ],
     "edges": [
-        "Was --[released]--> July 11,",
         "Ubisoft --[film]--> Television: Ubisoft",
         "Jashpur --[assembly]--> constituency: Jashpur",
         "Spicul --[chișcăreni:]--> Spicul Chișcăreni",
@@ -251,6 +250,7 @@
         "Mirza --[begić:]--> Mirza Begić",
         "Center, --[represented]--> the",
         "The --[fugitives]--> (band): The",
-        "Abbreviation --[hokkaido]--> Artists' Network"
+        "Abbreviation --[hokkaido]--> Artists' Network",
+        "Reinhard --[teufel:]--> Reinhard Johannes"
     ]
 }
