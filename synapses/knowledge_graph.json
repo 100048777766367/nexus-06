@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sami Khedira",
-        "Currently",
         "assistan",
         "Nina",
         "(La) Nina",
@@ -99,10 +97,11 @@
         "Elects",
         "member via",
         "Rob",
-        "Robert Julian"
+        "Robert Julian",
+        "Nexus-06:",
+        "trí tuệ"
     ],
     "edges": [
-        "They --[played]--> the Divizia",
         "Gordon --[fraser]--> (cyclist): Gordon",
         "Rider --[specialised]--> sprintin",
         "Takao --[station]--> (Gifu): Takao",
@@ -251,6 +250,7 @@
         "Reinhard --[teufel:]--> Reinhard Johannes",
         "Hamburg-mitte --[(electoral]--> district): Hamburg-Mitte",
         "Elects --[one]--> member via",
-        "Rob --[apter:]--> Robert Julian"
+        "Rob --[apter:]--> Robert Julian",
+        "Nexus-06: --[đại]--> trí tuệ"
     ]
 }
