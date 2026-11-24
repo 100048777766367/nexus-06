@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "for her",
-        "Sami",
         "Sami Khedira",
         "Currently",
         "assistan",
@@ -99,10 +97,11 @@
         "Hamburg-mitte",
         "district): Hamburg-Mitte",
         "Elects",
-        "member via"
+        "member via",
+        "Rob",
+        "Robert Julian"
     ],
     "edges": [
-        "Spicul --[chișcăreni:]--> Spicul Chișcăreni",
         "They --[played]--> the Divizia",
         "Gordon --[fraser]--> (cyclist): Gordon",
         "Rider --[specialised]--> sprintin",
@@ -251,6 +250,7 @@
         "Abbreviation --[hokkaido]--> Artists' Network",
         "Reinhard --[teufel:]--> Reinhard Johannes",
         "Hamburg-mitte --[(electoral]--> district): Hamburg-Mitte",
-        "Elects --[one]--> member via"
+        "Elects --[one]--> member via",
+        "Rob --[apter:]--> Robert Julian"
     ]
 }
