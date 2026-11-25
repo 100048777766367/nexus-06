@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Callicore excelsior,",
-        "2021",
         "killings: December",
         "Ncis",
         "13: The",
@@ -99,10 +97,11 @@
         "Youssof",
         "Youssof Tolba",
         "Competed",
-        "men's individual"
+        "men's individual",
+        "Good",
+        "\"Good Song\""
     ],
     "edges": [
-        "Takao --[station]--> (Gifu): Takao",
         "Goodenia --[azurea:]--> Goodenia azurea,",
         "Arjan --[lake:]--> Arjan Lake",
         "Ivo --[coccia:]--> Ivo Coccia",
@@ -251,6 +250,7 @@
         "Rob --[apter:]--> Robert Julian",
         "Nexus-06: --[đại]--> trí tuệ",
         "Youssof --[tolba:]--> Youssof Tolba",
-        "Competed --[the]--> men's individual"
+        "Competed --[the]--> men's individual",
+        "Good --[song:]--> \"Good Song\""
     ]
 }
