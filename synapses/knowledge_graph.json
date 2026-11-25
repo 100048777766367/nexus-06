@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "assistan",
-        "Nina",
-        "(La) Nina",
-        "Callicore",
         "Callicore excelsior,",
         "2021",
         "killings: December",
@@ -99,11 +95,13 @@
         "Rob",
         "Robert Julian",
         "Nexus-06:",
-        "trí tuệ"
+        "trí tuệ",
+        "Youssof",
+        "Youssof Tolba",
+        "Competed",
+        "men's individual"
     ],
     "edges": [
-        "Gordon --[fraser]--> (cyclist): Gordon",
-        "Rider --[specialised]--> sprintin",
         "Takao --[station]--> (Gifu): Takao",
         "Goodenia --[azurea:]--> Goodenia azurea,",
         "Arjan --[lake:]--> Arjan Lake",
@@ -251,6 +249,8 @@
         "Hamburg-mitte --[(electoral]--> district): Hamburg-Mitte",
         "Elects --[one]--> member via",
         "Rob --[apter:]--> Robert Julian",
-        "Nexus-06: --[đại]--> trí tuệ"
+        "Nexus-06: --[đại]--> trí tuệ",
+        "Youssof --[tolba:]--> Youssof Tolba",
+        "Competed --[the]--> men's individual"
     ]
 }
