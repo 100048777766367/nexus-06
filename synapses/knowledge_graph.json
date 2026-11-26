@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "killings: December",
-        "Ncis",
         "13: The",
         "Ernest",
         "Sir Albert",
@@ -99,10 +97,11 @@
         "Competed",
         "men's individual",
         "Good",
-        "\"Good Song\""
+        "\"Good Song\"",
+        "Gnesta",
+        "Gnesta IK,"
     ],
     "edges": [
-        "Goodenia --[azurea:]--> Goodenia azurea,",
         "Arjan --[lake:]--> Arjan Lake",
         "Ivo --[coccia:]--> Ivo Coccia",
         "Member --[the]--> Christian Democracy",
@@ -251,6 +250,7 @@
         "Nexus-06: --[đại]--> trí tuệ",
         "Youssof --[tolba:]--> Youssof Tolba",
         "Competed --[the]--> men's individual",
-        "Good --[song:]--> \"Good Song\""
+        "Good --[song:]--> \"Good Song\"",
+        "Gnesta --[ik:]--> Gnesta IK,"
     ]
 }
