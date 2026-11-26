@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "13: The",
         "Ernest",
         "Sir Albert",
         "Aurel",
@@ -99,10 +98,10 @@
         "Good",
         "\"Good Song\"",
         "Gnesta",
-        "Gnesta IK,"
+        "Gnesta IK,",
+        "Girl the"
     ],
     "edges": [
-        "Arjan --[lake:]--> Arjan Lake",
         "Ivo --[coccia:]--> Ivo Coccia",
         "Member --[the]--> Christian Democracy",
         "Stenocactus --[ochoterenianus:]--> Stenocactus ochoterenianus",
@@ -251,6 +250,7 @@
         "Youssof --[tolba:]--> Youssof Tolba",
         "Competed --[the]--> men's individual",
         "Good --[song:]--> \"Good Song\"",
-        "Gnesta --[ik:]--> Gnesta IK,"
+        "Gnesta --[ik:]--> Gnesta IK,",
+        "The --[only]--> Girl the"
     ]
 }
