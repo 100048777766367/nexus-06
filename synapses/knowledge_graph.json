@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Aurel",
-        "Aurel Șelaru",
         "Chợ",
         "Chợ Lách",
         "Kokošnje:",
@@ -99,10 +97,11 @@
         "Gnesta IK,",
         "Girl the",
         "Shaanxi",
-        "The Shaanxi"
+        "The Shaanxi",
+        "Furir",
+        "Iftari: Furir"
     ],
     "edges": [
-        "Member --[the]--> Christian Democracy",
         "Stenocactus --[ochoterenianus:]--> Stenocactus ochoterenianus",
         "Schinia --[hanga:]--> Schinia hanga",
         "Found --[north]--> America, including",
@@ -251,6 +250,7 @@
         "Good --[song:]--> \"Good Song\"",
         "Gnesta --[ik:]--> Gnesta IK,",
         "The --[only]--> Girl the",
-        "Shaanxi --[kj-200:]--> The Shaanxi"
+        "Shaanxi --[kj-200:]--> The Shaanxi",
+        "Furir --[bari]--> Iftari: Furir"
     ]
 }
