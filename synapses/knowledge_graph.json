@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ernest",
-        "Sir Albert",
         "Aurel",
         "Aurel Șelaru",
         "Chợ",
@@ -99,10 +97,11 @@
         "\"Good Song\"",
         "Gnesta",
         "Gnesta IK,",
-        "Girl the"
+        "Girl the",
+        "Shaanxi",
+        "The Shaanxi"
     ],
     "edges": [
-        "Ivo --[coccia:]--> Ivo Coccia",
         "Member --[the]--> Christian Democracy",
         "Stenocactus --[ochoterenianus:]--> Stenocactus ochoterenianus",
         "Schinia --[hanga:]--> Schinia hanga",
@@ -251,6 +250,7 @@
         "Competed --[the]--> men's individual",
         "Good --[song:]--> \"Good Song\"",
         "Gnesta --[ik:]--> Gnesta IK,",
-        "The --[only]--> Girl the"
+        "The --[only]--> Girl the",
+        "Shaanxi --[kj-200:]--> The Shaanxi"
     ]
 }
