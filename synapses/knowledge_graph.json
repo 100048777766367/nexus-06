@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "1998",
-        "League Third",
         "San",
         "Tsai (Tai",
         "Are",
@@ -99,10 +97,11 @@
         "Echoes",
         "End: Echoes",
         "Nestor",
-        "Nestor Peak"
+        "Nestor Peak",
+        "Wicked",
+        "Sounds: Wicked"
     ],
     "edges": [
-        "Found --[north]--> America, including",
         "Laura --[pillay:]--> Laura Pillay",
         "Humza --[arshad:]--> Humza Mohammed",
         "Produces --[the]--> web series",
@@ -251,6 +250,7 @@
         "Shaanxi --[kj-200:]--> The Shaanxi",
         "Furir --[bari]--> Iftari: Furir",
         "Echoes --[the]--> End: Echoes",
-        "Nestor --[peak:]--> Nestor Peak"
+        "Nestor --[peak:]--> Nestor Peak",
+        "Wicked --[jazz]--> Sounds: Wicked"
     ]
 }
