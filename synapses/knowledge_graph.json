@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kokošnje:",
-        "settlement around",
         "1998",
         "League Third",
         "San",
@@ -99,10 +97,11 @@
         "Furir",
         "Iftari: Furir",
         "Echoes",
-        "End: Echoes"
+        "End: Echoes",
+        "Nestor",
+        "Nestor Peak"
     ],
     "edges": [
-        "Schinia --[hanga:]--> Schinia hanga",
         "Found --[north]--> America, including",
         "Laura --[pillay:]--> Laura Pillay",
         "Humza --[arshad:]--> Humza Mohammed",
@@ -251,6 +250,7 @@
         "The --[only]--> Girl the",
         "Shaanxi --[kj-200:]--> The Shaanxi",
         "Furir --[bari]--> Iftari: Furir",
-        "Echoes --[the]--> End: Echoes"
+        "Echoes --[the]--> End: Echoes",
+        "Nestor --[peak:]--> Nestor Peak"
     ]
 }
